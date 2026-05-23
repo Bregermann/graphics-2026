@@ -1,0 +1,202 @@
+[
+    {
+        "team_name":"Rusty Bucket Babes",
+        "team_color":"rust",
+        "team_number": 1,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"aldeezy1", "game": "Super Mario 64"},
+                {"name":"Calum", "game": "Super Mario Sunshine"},
+                {"name":"Calum", "game": "Super Mario Galaxy"},
+                {"name":"SNRobi", "game": "Super Mario Galaxy 2"},
+                {"name":"TySoN78", "game": "Banjo-Kazooie"},
+                {"name":"imainleesin", "game": "Banjo-Tooie"},
+                {"name":"Awhitmore", "game": "Donkey Kong 64"},
+                {"name":"Brando", "game": "Crash Bandicoot"},
+                {"name":"Brando", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"Dereklander", "game": "Crash Bandicoot: WARPED"},
+                {"name":"8va", "game": "Spyro the Dragon"},
+                {"name":"aldeezy1", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Dactyly", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"Grape Apes",
+        "team_color":"purple",
+        "team_number": 2,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"SheilaSlays", "game": "Super Mario 64"},
+                {"name":"BlauerKeks", "game": "Super Mario Sunshine"},
+                {"name":"SheilaSlays", "game": "Super Mario Galaxy"},
+                {"name":"Galaxtic", "game": "Super Mario Galaxy 2"},
+                {"name":"SHLONGSTER", "game": "Banjo-Kazooie"},
+                {"name":"UniVin", "game": "Banjo-Tooie"},
+                {"name":"Auphonium", "game": "Donkey Kong 64"},
+                {"name":"trace", "game": "Crash Bandicoot"},
+                {"name":"Nuke_", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"Nuke_", "game": "Crash Bandicoot: WARPED"},
+                {"name":"Tulin", "game": "Spyro the Dragon"},
+                {"name":"superdave2", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Nuke_", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"Silly Willies",
+        "team_color":"red",
+        "team_number": 3,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"SayHarry", "game": "Super Mario 64"},
+                {"name":"Ceddy", "game": "Super Mario Sunshine"},
+                {"name":"PinShark", "game": "Super Mario Galaxy"},
+                {"name":"SuperViperT302", "game": "Super Mario Galaxy 2"},
+                {"name":"ZingoChris", "game": "Banjo-Kazooie"},
+                {"name":"Znernicus", "game": "Banjo-Tooie"},
+                {"name":"Znernicus", "game": "Donkey Kong 64"},
+                {"name":"C0dek", "game": "Crash Bandicoot"},
+                {"name":"C0dek", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"Bregermann", "game": "Crash Bandicoot: WARPED"},
+                {"name":"WillyWallglide", "game": "Spyro the Dragon"},
+                {"name":"HoneySonya", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Bregermann", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"Peach and Co. Law Offices",
+        "team_color":"peach",
+        "team_number": 4,
+        "finished":0,
+        "schedule": {
+            "run_order":[11, 12, 3, 13, 10, 5, 12, 6, 8, 2, 4, 7, 9],
+            "runs": [
+                {"name":"Alana", "game": "Super Mario 64"},
+                {"name":"Dan6049", "game": "Super Mario Sunshine"},
+                {"name":"Timkario", "game": "Super Mario Galaxy"},
+                {"name":"galaxv", "game": "Super Mario Galaxy 2"},
+                {"name":"Linkarf", "game": "Banjo-Kazooie"},
+                {"name":"g0goTBC", "game": "Banjo-Tooie"},
+                {"name":"zacharylawrence", "game": "Donkey Kong 64"},
+                {"name":"SuperSphere", "game": "Crash Bandicoot"},
+                {"name":"SuperSphere", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"SuperSphere", "game": "Crash Bandicoot: WARPED"},
+                {"name":"Uroogla", "game": "Spyro the Dragon"},
+                {"name":"Mentro", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Uroogla", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"Mintally Insane",
+        "team_color":"mint",
+        "team_number": 5,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"Nostalgia64", "game": "Super Mario 64"},
+                {"name":"Odme_", "game": "Super Mario Sunshine"},
+                {"name":"Nostalgia64", "game": "Super Mario Galaxy"},
+                {"name":"Odme_", "game": "Super Mario Galaxy 2"},
+                {"name":"CandyBoots", "game": "Banjo-Kazooie"},
+                {"name":"QueenSnopea", "game": "Banjo-Tooie"},
+                {"name":"CandyBoots", "game": "Donkey Kong 64"},
+                {"name":"Katsu", "game": "Crash Bandicoot"},
+                {"name":"Joey", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"anti", "game": "Crash Bandicoot: WARPED"},
+                {"name":"Syl", "game": "Spyro the Dragon"},
+                {"name":"Katsu", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Katsu", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"Hot.",
+        "team_color":"pink",
+        "team_number": 6,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"Zans64", "game": "Super Mario 64"},
+                {"name":"tackleshift8", "game": "Super Mario Sunshine"},
+                {"name":"TheMine2001", "game": "Super Mario Galaxy"},
+                {"name":"tackleshift8", "game": "Super Mario Galaxy 2"},
+                {"name":"GoodGrieth", "game": "Banjo-Kazooie"},
+                {"name":"SecretHumorMan", "game": "Banjo-Tooie"},
+                {"name":"SecretHumorMan", "game": "Donkey Kong 64"},
+                {"name":"voridak", "game": "Crash Bandicoot"},
+                {"name":"notvanni", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"voridak", "game": "Crash Bandicoot: WARPED"},
+                {"name":"Jordy", "game": "Spyro the Dragon"},
+                {"name":"Grapevine", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Klaxxy73", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"The Green Tea m",
+        "team_color":"cyan",
+        "team_number": 7,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"Druz", "game": "Super Mario 64"},
+                {"name":"ClairDSS", "game": "Super Mario Sunshine"},
+                {"name":"Mikey (PGSK)", "game": "Super Mario Galaxy"},
+                {"name":"marco", "game": "Super Mario Galaxy 2"},
+                {"name":"XandoToaster", "game": "Banjo-Kazooie"},
+                {"name":"icup", "game": "Banjo-Tooie"},
+                {"name":"icup", "game": "Donkey Kong 64"},
+                {"name":"Nerf", "game": "Crash Bandicoot"},
+                {"name":"NightShadow295", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"EvolvesZ", "game": "Crash Bandicoot: WARPED"},
+                {"name":"debianchan", "game": "Spyro the Dragon"},
+                {"name":"XandoToaster", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Mikey (PGSK)", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    },
+
+        {
+        "team_name":"Gaslight Gatekeep Girlboss",
+        "team_color":"gold",
+        "team_number": 8,
+        "finished":0,
+        "schedule": {
+            "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
+            "runs": [
+                {"name":"Cheesy", "game": "Super Mario 64"},
+                {"name":"jukatox", "game": "Super Mario Sunshine"},
+                {"name":"TIbs", "game": "Super Mario Galaxy"},
+                {"name":"Cheesy", "game": "Super Mario Galaxy 2"},
+                {"name":"kezisthename", "game": "Banjo-Kazooie"},
+                {"name":"CornCobx0", "game": "Banjo-Tooie"},
+                {"name":"MrTKettle", "game": "Donkey Kong 64"},
+                {"name":"Pianoman7117", "game": "Crash Bandicoot"},
+                {"name":"Aether", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
+                {"name":"Pianoman7117", "game": "Crash Bandicoot: WARPED"},
+                {"name":"Dayoman", "game": "Spyro the Dragon"},
+                {"name":"Aidan", "game": "Spyro 2: Ripto's Rage!"},
+                {"name":"Rui", "game": "Spyro: Year of the Dragon"}
+            ]
+        }
+    }
+
+]

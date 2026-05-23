@@ -1,0 +1,6466 @@
+[
+    {
+        "Race": "Summer 2017",
+        "Runner": "Johanian",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Super Mario 64",
+        "Run Time": "3:11:30",
+        "Current PB": "3:11:30"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Johanian",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:42:26",
+        "Current PB": "4:19:15"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "dkr_bandow",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:40:38",
+        "Current PB": "6:11:22"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "ConklesToTheMax",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "12:36:09",
+        "Current PB": "12:36:03"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "TheMartonfi",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:21:31",
+        "Current PB": "2:04:06"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "SecretHumorMan",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:48:39",
+        "Current PB": "4:33:43"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "SecretHumorMan",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:48:32",
+        "Current PB": "6:32:23"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "notvanni",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:15:50",
+        "Current PB": "1:06:50"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "notvanni",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:21:50",
+        "Current PB": "1:14:18"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "notvanni",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:09:23",
+        "Current PB": "2:03:27"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "nerf",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:46:33",
+        "Current PB": "1:28:16"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "nerf",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:44:05",
+        "Current PB": "1:34:52"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "nerf",
+        "Team": "Y'all Just Got B E A N E D",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:49:59",
+        "Current PB": "2:56:33"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "g0goTBC",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Super Mario 64",
+        "Run Time": "2:28:33",
+        "Current PB": "2:19:32"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "MutantsAbyss",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:45:56",
+        "Current PB": "3:12:31"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "SonicBoomSensei",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:27:51",
+        "Current PB": "7:27:01"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "MutantsAbyss",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:34:30",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Duck",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:17:53",
+        "Current PB": "1:58:52"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Duck",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:01:45",
+        "Current PB": "4:37:30"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Connor75",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:34:18",
+        "Current PB": "5:10:47"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Tebt_W",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:14:46",
+        "Current PB": "1:01:14"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "KrisMarqz",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:26:42",
+        "Current PB": "1:21:20"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "KrisMarqz",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:23:16",
+        "Current PB": "2:16:40"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "zacho254",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:23:35",
+        "Current PB": "2:23:35"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "WedSR",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:10:48",
+        "Current PB": "1:45:58"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "WedSR",
+        "Team": "The Happy Little Speedrunners",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:32:40",
+        "Current PB": "3:12:24"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Cosmoing",
+        "Team": "Team Mornin'",
+        "Game": "Super Mario 64",
+        "Run Time": "2:40:11",
+        "Current PB": "2:40:11"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "StrongmanLin",
+        "Team": "Team Mornin'",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:20:48",
+        "Current PB": "3:20:48"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "StrongmanLin",
+        "Team": "Team Mornin'",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:50:22",
+        "Current PB": "6:50:22"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Cosmoing",
+        "Team": "Team Mornin'",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:50:37",
+        "Current PB": "10:50:37"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "LazyBearBanjo",
+        "Team": "Team Mornin'",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:28:54",
+        "Current PB": "2:18:17"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "icupspeedruns_",
+        "Team": "Team Mornin'",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:03:46",
+        "Current PB": "4:11:03"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "theballaam96",
+        "Team": "Team Mornin'",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:45:16",
+        "Current PB": "6:17:37"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "hsi_wu",
+        "Team": "Team Mornin'",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:27:38",
+        "Current PB": "1:27:38"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "TOTOzigemm",
+        "Team": "Team Mornin'",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:45:52",
+        "Current PB": "1:38:57"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "TOTOzigemm",
+        "Team": "Team Mornin'",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:45:04",
+        "Current PB": "2:45:04"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "hsi_wu",
+        "Team": "Team Mornin'",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:50:21",
+        "Current PB": "1:41:46"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "TOTOzigemm",
+        "Team": "Team Mornin'",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:02:13",
+        "Current PB": "2:01:00"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "hsi_wu",
+        "Team": "Team Mornin'",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:45:02",
+        "Current PB": "3:40:42"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Paracusia",
+        "Team": "Iateyourgrapes",
+        "Game": "Super Mario 64",
+        "Run Time": "1:48:48",
+        "Current PB": "1:39:00"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Nocturne_",
+        "Team": "Iateyourgrapes",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:36:40",
+        "Current PB": "3:34:03"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "PodzSR",
+        "Team": "Iateyourgrapes",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:58:51",
+        "Current PB": "6:06:55"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Nocturne_",
+        "Team": "Iateyourgrapes",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:47:32",
+        "Current PB": "9:44:44"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "hagg_64",
+        "Team": "Iateyourgrapes",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:33:16",
+        "Current PB": "1:58:19"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "GarageDoorOpener",
+        "Team": "Iateyourgrapes",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:46:02",
+        "Current PB": "4:27:07"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Jaguar002",
+        "Team": "Iateyourgrapes",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:19:20",
+        "Current PB": "6:08:13"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "WhitePaaws",
+        "Team": "Iateyourgrapes",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:16:54",
+        "Current PB": "1:04:34"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "robthegamer115",
+        "Team": "Iateyourgrapes",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "2:30:43",
+        "Current PB": "2:08:29"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "robthegamer115",
+        "Team": "Iateyourgrapes",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:34:52",
+        "Current PB": "2:57:09"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Beuchiism",
+        "Team": "Iateyourgrapes",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:46:22",
+        "Current PB": "1:41:58"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Beuchiism",
+        "Team": "Iateyourgrapes",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:02:09",
+        "Current PB": "1:54:58"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "WhitePaaws",
+        "Team": "Iateyourgrapes",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:40:29",
+        "Current PB": "3:22:17"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Muimania",
+        "Team": "Anything But Last",
+        "Game": "Super Mario 64",
+        "Run Time": "1:54:47",
+        "Current PB": "1:47:31"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Muimania",
+        "Team": "Anything But Last",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:41:55",
+        "Current PB": "3:28:31"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Nostalgia64",
+        "Team": "Anything But Last",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:17:12",
+        "Current PB": "7:08:40"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Odme_",
+        "Team": "Anything But Last",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:42:54",
+        "Current PB": "8:57:41"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "EmoArbiter",
+        "Team": "Anything But Last",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:45:41",
+        "Current PB": "2:14:23"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "EmoArbiter",
+        "Team": "Anything But Last",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:06:28",
+        "Current PB": "4:41:35"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Kiwikiller67",
+        "Team": "Anything But Last",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:11:22",
+        "Current PB": "5:33:19"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "burgerlands2",
+        "Team": "Anything But Last",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:37:24",
+        "Current PB": "1:04:56"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "HolySanctum",
+        "Team": "Anything But Last",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "2:13:43",
+        "Current PB": "2:13:43"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "burgerlands2",
+        "Team": "Anything But Last",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:24:18",
+        "Current PB": "1:58:58"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Gazco",
+        "Team": "Anything But Last",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:30:09",
+        "Current PB": "1:25:46"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "HolySanctum",
+        "Team": "Anything But Last",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:48:27",
+        "Current PB": "2:48:27"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Gazco",
+        "Team": "Anything But Last",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:36:40",
+        "Current PB": "3:09:21"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "SpikeVegeta",
+        "Team": "Team LilZ",
+        "Game": "Super Mario 64",
+        "Run Time": "2:10:14",
+        "Current PB": "2:05:57"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "SniperKing",
+        "Team": "Team LilZ",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:54:54",
+        "Current PB": "3:54:54"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "SpikeVegeta",
+        "Team": "Team LilZ",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:05:17",
+        "Current PB": "6:59:55"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "TheSludgyGamer",
+        "Team": "Team LilZ",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:35:54",
+        "Current PB": "9:35:17"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "kaptainkohl",
+        "Team": "Team LilZ",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:38:58",
+        "Current PB": "2:16:55"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Konditioner",
+        "Team": "Team LilZ",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:36:24",
+        "Current PB": "4:29:47"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Obiyo",
+        "Team": "Team LilZ",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:38:15",
+        "Current PB": "5:59:19"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Dactyly",
+        "Team": "Team LilZ",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:36:58",
+        "Current PB": "1:23:30"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Dactyly",
+        "Team": "Team LilZ",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:33:30",
+        "Current PB": "1:26:44"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "Feranator115",
+        "Team": "Team LilZ",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:13:04",
+        "Current PB": "3:13:04"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "MartyrrSenpai",
+        "Team": "Team LilZ",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:44:47",
+        "Current PB": "1:35:31"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "MartyrrSenpai",
+        "Team": "Team LilZ",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:55:48",
+        "Current PB": "1:46:09"
+    },
+    {
+        "Race": "Summer 2017",
+        "Runner": "spudlyman",
+        "Team": "Team LilZ",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:43:42",
+        "Current PB": "3:16:37"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "ActuallyImJerome",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Super Mario 64",
+        "Run Time": "2:53:56",
+        "Current PB": "2:29:05"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "xzRockin",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "5:00:00",
+        "Current PB": "3:53:28"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "xzRockin",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:42:10",
+        "Current PB": "5:32:36"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "ActuallyImJerome",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "11:38:58",
+        "Current PB": "9:52:35"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Connor75",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:33:37",
+        "Current PB": "2:15:57"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "GarageDoorOpener",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:37:47",
+        "Current PB": "4:27:07"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Connor75",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:24:33",
+        "Current PB": "5:10:47"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "burgerlands2",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:15:21",
+        "Current PB": "1:04:56"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "evil46",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:08",
+        "Current PB": "1:13:49"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "burgerlands2",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:04:49",
+        "Current PB": "1:58:58"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "AllyDest",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:28:26",
+        "Current PB": "1:26:29"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "AllyDest",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:53:10",
+        "Current PB": "1:39:01"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Dan6049",
+        "Team": "Spaghettio Meatballio",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:34:54",
+        "Current PB": "3:08:08"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "iMartz3",
+        "Team": "B Team",
+        "Game": "Super Mario 64",
+        "Run Time": "2:28:43",
+        "Current PB": "2:28:43"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Muimania",
+        "Team": "B Team",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:41:56",
+        "Current PB": "3:28:31"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Muimania",
+        "Team": "B Team",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:24:20",
+        "Current PB": "6:01:02"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "iMartz3",
+        "Team": "B Team",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:14:58",
+        "Current PB": "10:14:58"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Funderful",
+        "Team": "B Team",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:13:55",
+        "Current PB": "1:59:35"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "MumboToken",
+        "Team": "B Team",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:44:14",
+        "Current PB": "4:27:40"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "BetoKos",
+        "Team": "B Team",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:41:21",
+        "Current PB": "6:41:21"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "KylieKyubi",
+        "Team": "B Team",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:52:11",
+        "Current PB": "1:10:08"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "KylieKyubi",
+        "Team": "B Team",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:26:19",
+        "Current PB": "1:15:24"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "KylieKyubi",
+        "Team": "B Team",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:33:24",
+        "Current PB": "2:07:21"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "MartyrrSenpai",
+        "Team": "B Team",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:37:17",
+        "Current PB": "1:35:31"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "nerf",
+        "Team": "B Team",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:48:00",
+        "Current PB": "1:34:52"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "nerf",
+        "Team": "B Team",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:09:09",
+        "Current PB": "2:56:33"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "OKNEM",
+        "Team": "Poppin' Off",
+        "Game": "Super Mario 64",
+        "Run Time": "2:22:03",
+        "Current PB": "2:22:03"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Odme_",
+        "Team": "Poppin' Off",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:32:02",
+        "Current PB": "2:59:37"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Odme_",
+        "Team": "Poppin' Off",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:00:53",
+        "Current PB": "5:16:01"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "PodzSR",
+        "Team": "Poppin' Off",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "12:18:44",
+        "Current PB": "10:08:25"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "SecretHumorMan",
+        "Team": "Poppin' Off",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:18:49",
+        "Current PB": "2:12:04"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "SecretHumorMan",
+        "Team": "Poppin' Off",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:44:12",
+        "Current PB": "4:33:43"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Xafication",
+        "Team": "Poppin' Off",
+        "Game": "Donkey Kong 64",
+        "Run Time": "7:05:47",
+        "Current PB": "5:30:18"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "WhipCPL",
+        "Team": "Poppin' Off",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:16:24",
+        "Current PB": "1:12:53"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "DylWingo",
+        "Team": "Poppin' Off",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:51",
+        "Current PB": "1:11:45"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "notvanni",
+        "Team": "Poppin' Off",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:18:32",
+        "Current PB": "2:03:27"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Hummeldon",
+        "Team": "Poppin' Off",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:33:18",
+        "Current PB": "1:26:54"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "HolySanctum",
+        "Team": "Poppin' Off",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:49:12",
+        "Current PB": "2:49:12"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "notvanni",
+        "Team": "Poppin' Off",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:12:44",
+        "Current PB": "2:47:17"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "meowmix_fan",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Super Mario 64",
+        "Run Time": "2:10:48",
+        "Current PB": "2:02:46"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "meowmix_fan",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:41:17",
+        "Current PB": "3:27:45"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Timba",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:39:17",
+        "Current PB": "6:34:44"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "ConklesToTheMax",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "12:42:17",
+        "Current PB": "12:36:03"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "hagg_64",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:08:37",
+        "Current PB": "1:58:19"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "hagg_64",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:52:36",
+        "Current PB": "4:25:03"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Falcon",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:19:33",
+        "Current PB": "5:17:31"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Trob",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:19:31",
+        "Current PB": "1:14:31"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "stump230",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:38:10",
+        "Current PB": "1:28:59"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Trob",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:48:34",
+        "Current PB": "2:22:06"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "PhoenixAki",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:42:29",
+        "Current PB": "1:40:32"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Venomynous",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:50:31",
+        "Current PB": "1:46:44"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Joester98",
+        "Team": "The Pinky Coinkydinks",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:01:20",
+        "Current PB": "4:01:20"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Nostalgia64",
+        "Team": "You're Too Slow",
+        "Game": "Super Mario 64",
+        "Run Time": "3:28:05",
+        "Current PB": "2:41:51"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "HowToCantaloupe",
+        "Team": "You're Too Slow",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:28:05",
+        "Current PB": "3:16:57"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Nostalgia64",
+        "Team": "You're Too Slow",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:17:12",
+        "Current PB": "7:08:40"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "HowToCantaloupe",
+        "Team": "You're Too Slow",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:31:05",
+        "Current PB": "9:31:05"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "g0goTBC",
+        "Team": "You're Too Slow",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:46:08",
+        "Current PB": "2:09:54"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "g0goTBC",
+        "Team": "You're Too Slow",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:49:54",
+        "Current PB": "4:33:09"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Znernicus",
+        "Team": "You're Too Slow",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:49:30",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "TOTOzigemm",
+        "Team": "You're Too Slow",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:54:14",
+        "Current PB": "1:40:29"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Rexaaayyy",
+        "Team": "You're Too Slow",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:21:57",
+        "Current PB": "1:12:05"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "KieronSR",
+        "Team": "You're Too Slow",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:02:43",
+        "Current PB": "2:11:02"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "crash6351",
+        "Team": "You're Too Slow",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:36:15",
+        "Current PB": "1:34:38"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Drashed",
+        "Team": "You're Too Slow",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:40:59",
+        "Current PB": "1:34:59"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "TOTOzigemm",
+        "Team": "You're Too Slow",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:48:10",
+        "Current PB": "3:35:59"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "LucoSRL",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Super Mario 64",
+        "Run Time": "2:02:43",
+        "Current PB": "1:51:26"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "LucoSRL",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:35:54",
+        "Current PB": "3:16:24"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "TheSludgyGamer",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:47:46",
+        "Current PB": "5:37:13"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "icupspeedruns_",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:16:27",
+        "Current PB": "10:03:59"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Kiwikiller67",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:51:25",
+        "Current PB": "2:51:31"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Kongkrete",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:49:16",
+        "Current PB": "4:31:28"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Kiwikiller67",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:55:52",
+        "Current PB": "5:33:19"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "chiteiro1",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:23:19",
+        "Current PB": "1:22:49"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "robthegamer115",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "2:15:34",
+        "Current PB": "2:08:29"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "robthegamer115",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:32:30",
+        "Current PB": "2:57:09"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "ChrisLBC",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:27:47",
+        "Current PB": "1:22:50"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "ChrisLBC",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:49:10",
+        "Current PB": "1:44:12"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "WedSR",
+        "Team": "A Picture of Snoop Dogg",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:18:07",
+        "Current PB": "3:12:24"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Paracusia",
+        "Team": "Puttin' In the Work",
+        "Game": "Super Mario 64",
+        "Run Time": "1:49:00",
+        "Current PB": "1:39:00"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Johanian",
+        "Team": "Puttin' In the Work",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:19:15",
+        "Current PB": "4:19:15"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Awesome7285",
+        "Team": "Puttin' In the Work",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:42:43",
+        "Current PB": "6:53:30"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "SuperViperT302",
+        "Team": "Puttin' In the Work",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:50:19",
+        "Current PB": "9:12:44"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "UniVin",
+        "Team": "Puttin' In the Work",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:08:15",
+        "Current PB": "2:05:04"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "UniVin",
+        "Team": "Puttin' In the Work",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:27:14",
+        "Current PB": "4:17:46"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Obiyo",
+        "Team": "Puttin' In the Work",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:05:28",
+        "Current PB": "5:59:19"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "WhitePaaws",
+        "Team": "Puttin' In the Work",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:10:49",
+        "Current PB": "1:04:34"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "LowFlyingGoat",
+        "Team": "Puttin' In the Work",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:38:58",
+        "Current PB": "1:30:49"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "WhitePaaws",
+        "Team": "Puttin' In the Work",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:27:23",
+        "Current PB": "2:09:40"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Valita_The_Dragon",
+        "Team": "Puttin' In the Work",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:28:28",
+        "Current PB": "1:27:04"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "zacho254",
+        "Team": "Puttin' In the Work",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:49:36",
+        "Current PB": "2:49:36"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Valita_The_Dragon",
+        "Team": "Puttin' In the Work",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:28:59",
+        "Current PB": "3:13:14"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "dkr_bandow",
+        "Team": "Team Washi Washi",
+        "Game": "Super Mario 64",
+        "Run Time": "2:26:46",
+        "Current PB": "2:04:15"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "MutantsAbyss",
+        "Team": "Team Washi Washi",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:40:33",
+        "Current PB": "3:12:31"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "dkr_bandow",
+        "Team": "Team Washi Washi",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:08:28",
+        "Current PB": "6:11:22"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "MutantsAbyss",
+        "Team": "Team Washi Washi",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:50:53",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Duck",
+        "Team": "Team Washi Washi",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:07:16",
+        "Current PB": "1:58:52"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Duck",
+        "Team": "Team Washi Washi",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:42:15",
+        "Current PB": "4:37:30"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Jaguar002",
+        "Team": "Team Washi Washi",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:22:36",
+        "Current PB": "6:08:13"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Tebt_W",
+        "Team": "Team Washi Washi",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:11:26",
+        "Current PB": "1:01:14"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "CDRomatron",
+        "Team": "Team Washi Washi",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:40:32",
+        "Current PB": "1:33:48"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "lozplyr89",
+        "Team": "Team Washi Washi",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "4:48:34",
+        "Current PB": "4:24:49"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Beuchiism",
+        "Team": "Team Washi Washi",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:43:24",
+        "Current PB": "1:41:58"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "Beuchiism",
+        "Team": "Team Washi Washi",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:57:27",
+        "Current PB": "1:54:58"
+    },
+    {
+        "Race": "Summer 2018",
+        "Runner": "spudlyman",
+        "Team": "Team Washi Washi",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:37:07",
+        "Current PB": "3:16:37"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "josieskate",
+        "Team": "ExpansionPak",
+        "Game": "Super Mario 64",
+        "Run Time": "1:49:41",
+        "Current PB": "1:46:17"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "sblectric",
+        "Team": "ExpansionPak",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:05:18",
+        "Current PB": "2:51:05"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Awesome7285",
+        "Team": "ExpansionPak",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:25:12",
+        "Current PB": "6:53:30"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "TheSludgyGamer",
+        "Team": "ExpansionPak",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:57:03",
+        "Current PB": "9:35:17"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Azmi1",
+        "Team": "ExpansionPak",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:07:21",
+        "Current PB": "1:56:32"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Ten",
+        "Team": "ExpansionPak",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:39:57",
+        "Current PB": "4:29:38"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Znernicus",
+        "Team": "ExpansionPak",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:38:56",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "VENGENZ",
+        "Team": "ExpansionPak",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:52:00",
+        "Current PB": "1:32:10"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "evil46",
+        "Team": "ExpansionPak",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:39",
+        "Current PB": "1:13:49"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "VENGENZ",
+        "Team": "ExpansionPak",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:51:51",
+        "Current PB": "2:27:06"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Hummeldon",
+        "Team": "ExpansionPak",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:32:00",
+        "Current PB": "1:26:54"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Drago710",
+        "Team": "ExpansionPak",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:55:09",
+        "Current PB": "1:49:46"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Dan6049",
+        "Team": "ExpansionPak",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:25:43",
+        "Current PB": "3:08:08"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "LucoSRL",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Super Mario 64",
+        "Current PB": "2:05:49"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "meowmix_fan",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Super Mario Sunshine",
+        "Current PB": "3:30:40"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "CreepyGar",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Super Mario Galaxy",
+        "Current PB": "6:02:38"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "PodzSR",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Super Mario Galaxy 2",
+        "Current PB": "11:12:32"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Nylume",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Banjo-Kazooie",
+        "Current PB": "2:23:44"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "g0goTBC",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Banjo-Tooie",
+        "Current PB": "4:44:31"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Xafication",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Donkey Kong 64",
+        "Current PB": "5:55:19"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "KylieKyubi",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Crash Bandicoot",
+        "Current PB": "1:23:45"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "KylieKyubi",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Current PB": "1:22:48"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "KylieKyubi",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Crash Bandicoot: WARPED",
+        "Current PB": "2:31:44"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Dactyly",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Spyro the Dragon",
+        "Current PB": "1:30:20"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Ladybugg_",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Spyro 2: Ripto's Rage!",
+        "Current PB": "1:52:06"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Valita_The_Dragon",
+        "Team": " Dude",
+        "Game": " Where's My Jump? ",
+        "Run Time": "Spyro: Year of the Dragon",
+        "Current PB": "3:33:47"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Paracusia",
+        "Team": "OHH BANANA",
+        "Game": "Super Mario 64",
+        "Run Time": "1:44:16",
+        "Current PB": "1:39:00"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Paperario",
+        "Team": "OHH BANANA",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:07:19",
+        "Current PB": "2:56:42"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "MrCloudKirby",
+        "Team": "OHH BANANA",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:54:40",
+        "Current PB": "5:12:38"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Timba",
+        "Team": "OHH BANANA",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:03:54",
+        "Current PB": "10:03:54"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Damo",
+        "Team": "OHH BANANA",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:03:49",
+        "Current PB": "2:00:42"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "icupspeedruns_",
+        "Team": "OHH BANANA",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:39:19",
+        "Current PB": "4:11:03"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "icupspeedruns_",
+        "Team": "OHH BANANA",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:03:33",
+        "Current PB": "5:54:15"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Beuchiism",
+        "Team": "OHH BANANA",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:30:24",
+        "Current PB": "1:22:39"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "rabinii",
+        "Team": "OHH BANANA",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:20:39",
+        "Current PB": "1:11:26"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "rabinii",
+        "Team": "OHH BANANA",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:24:28",
+        "Current PB": "2:21:55"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Synyadriel",
+        "Team": "OHH BANANA",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:23:12",
+        "Current PB": "2:05:39"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Synyadriel",
+        "Team": "OHH BANANA",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "3:45:02",
+        "Current PB": "3:19:40"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Beuchiism",
+        "Team": "OHH BANANA",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:43:27",
+        "Current PB": "3:42:10"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "dkr_bandow",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Super Mario 64",
+        "Run Time": "2:14:47",
+        "Current PB": "2:04:15"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "iMartz3",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:52:08",
+        "Current PB": "3:49:28"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "HardcoreGaming07",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:41:32",
+        "Current PB": "5:15:08"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "HowToCantaloupe",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:39:46",
+        "Current PB": "9:31:05"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Sivitybobo",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "1:59:57",
+        "Current PB": "1:59:27"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Falcon",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:27:23",
+        "Current PB": "4:16:15"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Falcon",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:52:17",
+        "Current PB": "5:17:31"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "robthegamer115",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Crash Bandicoot",
+        "Run Time": "2:06:15",
+        "Current PB": "1:58:04"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "robthegamer115",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "2:08:29",
+        "Current PB": "2:08:29"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "notvanni",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:09:11",
+        "Current PB": "2:03:27"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Bregermann",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:01:54",
+        "Current PB": "1:52:27"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Shaw",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:39:48",
+        "Current PB": "1:35:23"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Bregermann",
+        "Team": "Alaskan Bull Worms",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:43:32",
+        "Current PB": "4:21:09"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Alaeus",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Super Mario 64",
+        "Run Time": "2:33:33",
+        "Current PB": "2:33:33"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Larvitar",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:22:33",
+        "Current PB": "3:08:50"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "ConklesToTheMax",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "8:35:01",
+        "Current PB": "8:35:01"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "ShadowFrost",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:01:42",
+        "Current PB": "9:42:52"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "CrozB_",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:20:49",
+        "Current PB": "2:05:44"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "EmoArbiter",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:49:55",
+        "Current PB": "4:41:35"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "EmoArbiter",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:54:11",
+        "Current PB": "5:53:38"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "burgerlands2",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:10:29",
+        "Current PB": "1:04:56"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "stump230",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:31:31",
+        "Current PB": "1:28:59"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "burgerlands2",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:13:20",
+        "Current PB": "1:58:58"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "crash6351",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:36:13",
+        "Current PB": "1:34:38"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "toopercentmilk",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:00:06",
+        "Current PB": "1:49:58"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "WedSR",
+        "Team": "Grimace Did Nothing Wrong",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:15:18",
+        "Current PB": "3:12:24"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Muimania",
+        "Team": "DK Grunt",
+        "Game": "Super Mario 64",
+        "Run Time": "1:51:19",
+        "Current PB": "1:47:31"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Odme_",
+        "Team": "DK Grunt",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:20:46",
+        "Current PB": "2:59:37"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Odme_",
+        "Team": "DK Grunt",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:52:59",
+        "Current PB": "5:16:01"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "ActuallyImJerome",
+        "Team": "DK Grunt",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:32:54",
+        "Current PB": "9:52:35"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "ProfPoli",
+        "Team": "DK Grunt",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:18:42",
+        "Current PB": "2:15:24"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "UniVin",
+        "Team": "DK Grunt",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:21:05",
+        "Current PB": "4:17:46"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "SecretHumorMan",
+        "Team": "DK Grunt",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:32:28",
+        "Current PB": "6:32:23"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "WhitePaaws",
+        "Team": "DK Grunt",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:10:21",
+        "Current PB": "1:04:34"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "DylWingo",
+        "Team": "DK Grunt",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:13:52",
+        "Current PB": "1:11:45"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "WhitePaaws",
+        "Team": "DK Grunt",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:18:07",
+        "Current PB": "2:09:40"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "nerf",
+        "Team": "DK Grunt",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:37:27",
+        "Current PB": "1:28:16"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "zacharylawrence",
+        "Team": "DK Grunt",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:55:52",
+        "Current PB": "1:32:59"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "nerf",
+        "Team": "DK Grunt",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:06:40",
+        "Current PB": "2:56:33"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "SuperViperT302",
+        "Team": "BigWeed",
+        "Game": "Super Mario 64",
+        "Run Time": "1:47:21",
+        "Current PB": "1:45:37"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "bcaudell95",
+        "Team": "BigWeed",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:14:13",
+        "Current PB": "4:14:13"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "iamatruegam3r",
+        "Team": "BigWeed",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:11:54",
+        "Current PB": "6:04:43"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "MutantsAbyss",
+        "Team": "BigWeed",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:25:03",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "TheMartonfi",
+        "Team": "BigWeed",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:12:00",
+        "Current PB": "2:04:06"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "MumboToken",
+        "Team": "BigWeed",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:51:49",
+        "Current PB": "4:27:40"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "MumboToken",
+        "Team": "BigWeed",
+        "Game": "Donkey Kong 64",
+        "Run Time": "7:44:50",
+        "Current PB": "7:32:24"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Tebt_W",
+        "Team": "BigWeed",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:06:47",
+        "Current PB": "1:01:14"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "CDRomatron",
+        "Team": "BigWeed",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:46:38",
+        "Current PB": "1:33:48"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "BluntsMoses",
+        "Team": "BigWeed",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:38:44",
+        "Current PB": "2:20:39"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "Yeswally1",
+        "Team": "BigWeed",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:36:04",
+        "Current PB": "1:27:31"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "spudlyman",
+        "Team": "BigWeed",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:51:59",
+        "Current PB": "1:38:24"
+    },
+    {
+        "Race": "Summer 2019",
+        "Runner": "spudlyman",
+        "Team": "BigWeed",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:32:15",
+        "Current PB": "3:16:37"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "JoJ3o",
+        "Team": "Top Tier Gamers",
+        "Game": "Super Mario 64",
+        "Run Time": "2:16:22",
+        "Current PB": "2:05:23"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Alaeus",
+        "Team": "Top Tier Gamers",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:28:16",
+        "Current PB": "4:26:55"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "CreepyGar",
+        "Team": "Top Tier Gamers",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:37:51",
+        "Current PB": "5:25:14"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "ActuallyImJerome",
+        "Team": "Top Tier Gamers",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:56:18",
+        "Current PB": "9:52:35"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Duck",
+        "Team": "Top Tier Gamers",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:20:21",
+        "Current PB": "1:58:52"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "EmoArbiter",
+        "Team": "Top Tier Gamers",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:42:46",
+        "Current PB": "4:41:35"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "GeneralToucans",
+        "Team": "Top Tier Gamers",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:56:12",
+        "Current PB": "5:44:18"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "WhitePaaws",
+        "Team": "Top Tier Gamers",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:09:47",
+        "Current PB": "1:04:34"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "TOTOzigemm",
+        "Team": "Top Tier Gamers",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:39:12",
+        "Current PB": "1:38:57"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "WhitePaaws",
+        "Team": "Top Tier Gamers",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:15:07",
+        "Current PB": "2:09:40"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Hummeldon",
+        "Team": "Top Tier Gamers",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:29:31",
+        "Current PB": "1:26:54"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "AetherStrider",
+        "Team": "Top Tier Gamers",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:01:00",
+        "Current PB": "1:56:03"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "spudlyman",
+        "Team": "Top Tier Gamers",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:26:14",
+        "Current PB": "3:16:37"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "SuperViperT302",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Super Mario 64",
+        "Run Time": "1:49:53",
+        "Current PB": "1:45:37"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "meowmix_fan",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:31:16",
+        "Current PB": "3:27:45"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "PodzSR",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:20:27",
+        "Current PB": "6:06:55"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Odme_",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:16:28",
+        "Current PB": "8:57:41"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "greaterharpy",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:30:03",
+        "Current PB": "2:13:28"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "g0goTBC",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:40:25",
+        "Current PB": "4:33:09"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Xafication",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:56:35",
+        "Current PB": "5:30:18"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Tebt_W",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:05:36",
+        "Current PB": "1:01:14"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "zacharylawrence",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:47:39",
+        "Current PB": "1:27:08"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "zacharylawrence",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:39:46",
+        "Current PB": "2:15:20"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "stuserr",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:49:57",
+        "Current PB": "1:44:59"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Bregermann",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:13:40",
+        "Current PB": "2:07:22"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "WedSR",
+        "Team": "T-Posing Pog Pug Hog Cog Log Dog Bog Jog",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:13:59",
+        "Current PB": "3:12:24"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Paracusia",
+        "Team": "Team Tangerine",
+        "Game": "Super Mario 64",
+        "Run Time": "1:45:11",
+        "Current PB": "1:39:00"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Johanian",
+        "Team": "Team Tangerine",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:33:45",
+        "Current PB": "4:19:15"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "MrCloudKirby",
+        "Team": "Team Tangerine",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:39:42",
+        "Current PB": "5:12:38"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "TheSludgyGamer",
+        "Team": "Team Tangerine",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:42:48",
+        "Current PB": "9:35:17"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "ProfPoli",
+        "Team": "Team Tangerine",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:18:05",
+        "Current PB": "2:15:24"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "UniVin",
+        "Team": "Team Tangerine",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:26:41",
+        "Current PB": "4:17:46"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Awhitmore",
+        "Team": "Team Tangerine",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:10:24",
+        "Current PB": "5:27:16"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "KylieKyubi",
+        "Team": "Team Tangerine",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:22:36",
+        "Current PB": "1:10:08"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "KylieKyubi",
+        "Team": "Team Tangerine",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:19:28",
+        "Current PB": "1:15:24"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "slvr",
+        "Team": "Team Tangerine",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:50:26",
+        "Current PB": "2:38:22"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "clov_cgsr",
+        "Team": "Team Tangerine",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:38:18",
+        "Current PB": "1:37:51"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Arttles",
+        "Team": "Team Tangerine",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:43:03",
+        "Current PB": "1:40:00"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Rui2Pop",
+        "Team": "Team Tangerine",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:01:03",
+        "Current PB": "3:44:35"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "MarvJungs",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Super Mario 64",
+        "Run Time": "1:57:12",
+        "Current PB": "1:55:15"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Larvitar",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:11:40",
+        "Current PB": "3:08:50"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "iamatruegam3r",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:29:48",
+        "Current PB": "6:04:43"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "HardcoreGaming07",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:10:30",
+        "Current PB": "8:58:36"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Azmi1",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:03:12",
+        "Current PB": "1:56:32"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Ten",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:41:39",
+        "Current PB": "4:29:38"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "zmelbz",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:57:46",
+        "Current PB": "6:50:23"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Dan6049",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:39:01",
+        "Current PB": "1:19:18"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Yellow_SR",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:35:03",
+        "Current PB": "1:30:23"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "burgerlands2",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:05:44",
+        "Current PB": "1:58:58"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "ShempMD",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:39:50",
+        "Current PB": "1:37:07"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "toopercentmilk",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:50:20",
+        "Current PB": "1:49:58"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "keeto22",
+        "Team": "Aubergine Did Nothing Wrong",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:02:43",
+        "Current PB": "3:23:58"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "dkr_bandow",
+        "Team": "Blue's Clues",
+        "Game": "Super Mario 64",
+        "Run Time": "2:11:19",
+        "Current PB": "2:04:15"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "MutantsAbyss",
+        "Team": "Blue's Clues",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:16:22",
+        "Current PB": "3:12:31"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Awesome7285",
+        "Team": "Blue's Clues",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:23:31",
+        "Current PB": "6:53:30"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "MutantsAbyss",
+        "Team": "Blue's Clues",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:07:26",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "ElectricFortune",
+        "Team": "Blue's Clues",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:16:03",
+        "Current PB": "2:11:50"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "icupspeedruns_",
+        "Team": "Blue's Clues",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:43:29",
+        "Current PB": "4:11:03"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Znernicus",
+        "Team": "Blue's Clues",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:44:23",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Beuchiism",
+        "Team": "Blue's Clues",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:30:24",
+        "Current PB": "1:22:39"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "rabinii",
+        "Team": "Blue's Clues",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:18:47",
+        "Current PB": "1:11:26"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "VENGENZ",
+        "Team": "Blue's Clues",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:27:06",
+        "Current PB": "2:27:06"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Pianoman7117",
+        "Team": "Blue's Clues",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:08:14",
+        "Current PB": "1:59:37"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "nerf",
+        "Team": "Blue's Clues",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:43:49",
+        "Current PB": "1:34:52"
+    },
+    {
+        "Race": "Summer 2020",
+        "Runner": "Nitrofski",
+        "Team": "Blue's Clues",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:15:32",
+        "Current PB": "2:52:56"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "dkr_bandow",
+        "Team": "Literally Unprepared",
+        "Game": "Super Mario 64",
+        "Run Time": "2:10:35",
+        "Current PB": "2:04:15"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Odme_",
+        "Team": "Literally Unprepared",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:08:20",
+        "Current PB": "2:59:37"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "iamatruegam3r",
+        "Team": "Literally Unprepared",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:43:50",
+        "Current PB": "6:04:43"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "KingJ0444",
+        "Team": "Literally Unprepared",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:08:11",
+        "Current PB": "9:48:57"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "greaterharpy",
+        "Team": "Literally Unprepared",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:31:53",
+        "Current PB": "2:13:28"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "g0goTBC",
+        "Team": "Literally Unprepared",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:35:42",
+        "Current PB": "4:33:09"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Znernicus",
+        "Team": "Literally Unprepared",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:38:24",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "XandoToaster",
+        "Team": "Literally Unprepared",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:28:18",
+        "Current PB": "1:11:58"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "CDRomatron",
+        "Team": "Literally Unprepared",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:41:54",
+        "Current PB": "1:33:48"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "XandoToaster",
+        "Team": "Literally Unprepared",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:53:37",
+        "Current PB": "2:43:07"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Bombercash",
+        "Team": "Literally Unprepared",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:36:39",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "zacharylawrence",
+        "Team": "Literally Unprepared",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:42:18",
+        "Current PB": "1:32:59"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Bombercash",
+        "Team": "Literally Unprepared",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:13:43",
+        "Current PB": "3:05:50"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "FireGoesFast",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Super Mario 64",
+        "Run Time": "2:02:36",
+        "Current PB": "1:52:46"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "sblectric",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "2:59:39",
+        "Current PB": "2:51:05"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Flygonman",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:35:59",
+        "Current PB": "5:31:12"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "MutantsAbyss",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:29:32",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Candy_Boots",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:58:49",
+        "Current PB": "2:25:02"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "MutantsAbyss",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:03:16",
+        "Current PB": "4:43:29"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Doughboy_Nation",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:35:29",
+        "Current PB": "5:55:47"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Nitrofski",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:43:03",
+        "Current PB": "1:11:12"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Nitrofski",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:32:33",
+        "Current PB": "1:21:46"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "bensaunders",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:19:29",
+        "Current PB": "2:19:29"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Nitrofski",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:40:07",
+        "Current PB": "1:31:31"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "CountCreep",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:44:11",
+        "Current PB": "2:30:32"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Yeswally1",
+        "Team": "Man Door Hand Hook Car Door",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:00:00",
+        "Current PB": "3:37:50"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "MarvJungs",
+        "Team": "Orange Doorhinge",
+        "Game": "Super Mario 64",
+        "Run Time": "2:01:56",
+        "Current PB": "1:55:15"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "JeffCompass",
+        "Team": "Orange Doorhinge",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:10:15",
+        "Current PB": "3:05:39"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Habo",
+        "Team": "Orange Doorhinge",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:45:26",
+        "Current PB": "6:45:26"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Rox_",
+        "Team": "Orange Doorhinge",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:37:14",
+        "Current PB": "9:37:16"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Azmi1",
+        "Team": "Orange Doorhinge",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:04:11",
+        "Current PB": "1:56:32"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "icupspeedruns_",
+        "Team": "Orange Doorhinge",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:30:55",
+        "Current PB": "4:11:03"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "zorulda",
+        "Team": "Orange Doorhinge",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:52:16",
+        "Current PB": "5:27:34"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "KylieKyubi",
+        "Team": "Orange Doorhinge",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:26:15",
+        "Current PB": "1:10:08"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "KylieKyubi",
+        "Team": "Orange Doorhinge",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:20:09",
+        "Current PB": "1:15:24"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "KylieKyubi",
+        "Team": "Orange Doorhinge",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:19:49",
+        "Current PB": "2:07:21"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Dan6049",
+        "Team": "Orange Doorhinge",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:47:18",
+        "Current PB": "1:39:17"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Dan6049",
+        "Team": "Orange Doorhinge",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:54:58",
+        "Current PB": "1:46:46"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "keeto22",
+        "Team": "Orange Doorhinge",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:35:51",
+        "Current PB": "3:23:58"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "zGamuT",
+        "Team": "Purple Yoshis",
+        "Game": "Super Mario 64",
+        "Run Time": "2:15:42",
+        "Current PB": "1:53:48"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "LucoSRL",
+        "Team": "Purple Yoshis",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:29:34",
+        "Current PB": "3:16:24"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "allegedlymarco",
+        "Team": "Purple Yoshis",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:52:59",
+        "Current PB": "5:30:10"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "keegansimyh",
+        "Team": "Purple Yoshis",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:23:35",
+        "Current PB": "9:10:36"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Shlongster7",
+        "Team": "Purple Yoshis",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:09:30",
+        "Current PB": "1:59:57"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Ad129",
+        "Team": "Purple Yoshis",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:23:14",
+        "Current PB": "4:46:23"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Awhitmore",
+        "Team": "Purple Yoshis",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:56:34",
+        "Current PB": "5:27:16"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "robthegamer115",
+        "Team": "Purple Yoshis",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:58:04",
+        "Current PB": "1:58:04"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "ChaoticAether",
+        "Team": "Purple Yoshis",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:19:04",
+        "Current PB": "1:16:37"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "hypnoshark",
+        "Team": "Purple Yoshis",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:17:35",
+        "Current PB": "2:09:08"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "stuserr",
+        "Team": "Purple Yoshis",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:50:43",
+        "Current PB": "1:44:59"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "hypnoshark",
+        "Team": "Purple Yoshis",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:48:52",
+        "Current PB": "1:41:30"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Rui2Pop",
+        "Team": "Purple Yoshis",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:44:36",
+        "Current PB": "3:44:35"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Expreli_",
+        "Team": "Timesave for Next Run",
+        "Game": "Super Mario 64",
+        "Run Time": "2:23:46",
+        "Current PB": "1:55:06"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Frozeno",
+        "Team": "Timesave for Next Run",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:59:00",
+        "Current PB": "3:59:00"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Jhay",
+        "Team": "Timesave for Next Run",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:32:53",
+        "Current PB": "5:06:03"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "SuperViperT302",
+        "Team": "Timesave for Next Run",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:22:02",
+        "Current PB": "9:12:44"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "TySoN78",
+        "Team": "Timesave for Next Run",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:19:55",
+        "Current PB": "2:01:52"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "SecretHumorMan",
+        "Team": "Timesave for Next Run",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:38:41",
+        "Current PB": "4:33:43"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Xafication",
+        "Team": "Timesave for Next Run",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:10:57",
+        "Current PB": "5:30:18"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Tebt_W",
+        "Team": "Timesave for Next Run",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:05:46",
+        "Current PB": "1:01:14"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Yellow_SR",
+        "Team": "Timesave for Next Run",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:30:56",
+        "Current PB": "1:30:23"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Pianoman7117",
+        "Team": "Timesave for Next Run",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:02:26",
+        "Current PB": "2:29:05"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "MrPop1",
+        "Team": "Timesave for Next Run",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:30:23",
+        "Current PB": "1:25:58"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "AetherStrider",
+        "Team": "Timesave for Next Run",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:01:08",
+        "Current PB": "1:56:03"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "SecretHumorMan",
+        "Team": "Timesave for Next Run",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:02:38",
+        "Current PB": "3:50:23"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Alaris",
+        "Team": "Updoggers",
+        "Game": "Super Mario 64",
+        "Run Time": "1:49:02",
+        "Current PB": "1:46:55"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "TheBreadghost",
+        "Team": "Updoggers",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:45:51",
+        "Current PB": "3:28:13"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "TheBreadghost",
+        "Team": "Updoggers",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:47:27",
+        "Current PB": "5:40:14"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "PodzSR",
+        "Team": "Updoggers",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:27:11",
+        "Current PB": "10:08:25"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "NadeTheGreat",
+        "Team": "Updoggers",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:03:46",
+        "Current PB": "2:00:46"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "NadeTheGreat",
+        "Team": "Updoggers",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:27:17",
+        "Current PB": "4:24:37"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Auphonium",
+        "Team": "Updoggers",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:30:48",
+        "Current PB": "5:29:20"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "WhitePaaws",
+        "Team": "Updoggers",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:13:09",
+        "Current PB": "1:04:34"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "runicblade98",
+        "Team": "Updoggers",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:25:48",
+        "Current PB": "1:20:36"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "KieronSR",
+        "Team": "Updoggers",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:21:09",
+        "Current PB": "2:11:02"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Neujahr98",
+        "Team": "Updoggers",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:40:33",
+        "Current PB": "2:00:46"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "WedSR",
+        "Team": "Updoggers",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:52:33",
+        "Current PB": "1:45:58"
+    },
+    {
+        "Race": "Summer 2021",
+        "Runner": "Bregermann",
+        "Team": "Updoggers",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:22:49",
+        "Current PB": "4:21:09"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "dkr_bandow",
+        "Team": "Red is Fine",
+        "Game": "Super Mario 64",
+        "Run Time": "2:04:15",
+        "Current PB": "2:04:15"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Joecool57",
+        "Team": "Red is Fine",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:43:55",
+        "Current PB": "3:28:29"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "ToogsX",
+        "Team": "Red is Fine",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:53:08",
+        "Current PB": "5:43:51"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "keegansimyh",
+        "Team": "Red is Fine",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:14:10",
+        "Current PB": "9:10:36"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Candy_Boots",
+        "Team": "Red is Fine",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:27:29",
+        "Current PB": "2:25:02"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Candy_Boots",
+        "Team": "Red is Fine",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:54:00",
+        "Current PB": "4:37:58"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Znernicus",
+        "Team": "Red is Fine",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:38:29",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Expreli_",
+        "Team": "Red is Fine",
+        "Game": "Crash Bandicoot",
+        "Run Time": "2:28:48",
+        "Current PB": "2:05:04"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "ChaoticAether",
+        "Team": "Red is Fine",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:26:33",
+        "Current PB": "1:16:37"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Dereklander",
+        "Team": "Red is Fine",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:51:08",
+        "Current PB": "2:11:01"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Luvs2BGlued",
+        "Team": "Red is Fine",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:01:00",
+        "Current PB": "1:47:15"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "AetherStrider",
+        "Team": "Red is Fine",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:01:54",
+        "Current PB": "1:56:03"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Dereklander",
+        "Team": "Red is Fine",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:49:12",
+        "Current PB": "3:01:28"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Flygonman",
+        "Team": "Immaculate Vibes",
+        "Game": "Super Mario 64",
+        "Run Time": "2:07:07",
+        "Current PB": "2:01:17"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Erthide",
+        "Team": "Immaculate Vibes",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:56:55",
+        "Current PB": "3:28:59"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Tibs1",
+        "Team": "Immaculate Vibes",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:39:56",
+        "Current PB": "5:11:01"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "MarvJungs",
+        "Team": "Immaculate Vibes",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:38:27",
+        "Current PB": "9:08:14"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "CostilerAphid18",
+        "Team": "Immaculate Vibes",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "3:25:55",
+        "Current PB": "3:19:22"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "icupspeedruns_",
+        "Team": "Immaculate Vibes",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:30:11",
+        "Current PB": "4:11:03"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "GeneralToucans",
+        "Team": "Immaculate Vibes",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:19:29",
+        "Current PB": "5:44:18"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "CDRomatron",
+        "Team": "Immaculate Vibes",
+        "Game": "Crash Bandicoot",
+        "Run Time": "2:14:38",
+        "Current PB": "2:13:56"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "KylieKyubi",
+        "Team": "Immaculate Vibes",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:17:03",
+        "Current PB": "1:15:24"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "KylieKyubi",
+        "Team": "Immaculate Vibes",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:15:44",
+        "Current PB": "2:07:21"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "DylanJayFox",
+        "Team": "Immaculate Vibes",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:57:42",
+        "Current PB": "1:43:24"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Bombercash",
+        "Team": "Immaculate Vibes",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:50:39",
+        "Current PB": "1:47:55"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Bombercash",
+        "Team": "Immaculate Vibes",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:14:29",
+        "Current PB": "3:05:50"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Frozeno",
+        "Team": "The!",
+        "Game": "Super Mario 64",
+        "Run Time": "2:06:04",
+        "Current PB": "1:59:19"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "jasonmatthew20",
+        "Team": "The!",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:43:58",
+        "Current PB": "4:29:56"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Midbro_",
+        "Team": "The!",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:58:45",
+        "Current PB": "5:37:41"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Rodillo_",
+        "Team": "The!",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:58:45",
+        "Current PB": "5:22:23"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "meowmix_fan",
+        "Team": "The!",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:15:22",
+        "Current PB": "9:40:26"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "NadeTheGreat",
+        "Team": "The!",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:01:36",
+        "Current PB": "2:00:46"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "NadeTheGreat",
+        "Team": "The!",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:25:09",
+        "Current PB": "4:24:37"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Xafication",
+        "Team": "The!",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:00:01",
+        "Current PB": "5:30:18"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Awesome7285",
+        "Team": "The!",
+        "Game": "Crash Bandicoot",
+        "Run Time": "2:10:42",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Potty",
+        "Team": "The!",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:11:09",
+        "Current PB": "1:09:04"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Awesome7285",
+        "Team": "The!",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:49:40",
+        "Current PB": "3:48:54"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Grapevine",
+        "Team": "The!",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:58:21",
+        "Current PB": "1:51:14"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Bluntbows",
+        "Team": "The!",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:35:59",
+        "Current PB": "1:32:57"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Keeto22",
+        "Team": "The!",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:31:56",
+        "Current PB": "3:23:58"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "daient",
+        "Team": "oink",
+        "Game": "Super Mario 64",
+        "Run Time": "2:11:58",
+        "Current PB": "2:07:54"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "NightShadow295",
+        "Team": "oink",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:26:02",
+        "Current PB": "3:58:04"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "lachurs",
+        "Team": "oink",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:00:38",
+        "Current PB": "6:00:38"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "nullscytheRTA",
+        "Team": "oink",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:59:26",
+        "Current PB": "9:49:56"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "TySoN78",
+        "Team": "oink",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:12:10",
+        "Current PB": "2:01:52"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "SecretHumorMan",
+        "Team": "oink",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:38:20",
+        "Current PB": "4:33:43"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "CornCobx0",
+        "Team": "oink",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:14:13",
+        "Current PB": "5:46:00"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "WhitePaaws",
+        "Team": "oink",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:11:04",
+        "Current PB": "1:04:34"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Neujahr98",
+        "Team": "oink",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:23:52",
+        "Current PB": "1:15:58"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "WhitePaaws",
+        "Team": "oink",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:13:04",
+        "Current PB": "2:09:40"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Valita_The_Dragon",
+        "Team": "oink",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:28:59",
+        "Current PB": "1:27:04"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Neujahr98",
+        "Team": "oink",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:46:33",
+        "Current PB": "1:38:26"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "SecretHumorMan",
+        "Team": "oink",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:52:42",
+        "Current PB": "3:50:23"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Galaxtic",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Super Mario 64",
+        "Run Time": "1:59:45",
+        "Current PB": "1:53:19"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Luca4735",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:12:21",
+        "Current PB": "4:08:47"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "HexSpeedruns",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:45:22",
+        "Current PB": "5:32:52"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Galaxtic",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:03:02",
+        "Current PB": "8:58:06"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Unkinderpine0",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:34:17",
+        "Current PB": "2:29:24"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Ad129",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:07:02",
+        "Current PB": "4:46:23"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Ad129",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:41:11",
+        "Current PB": "6:20:41"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "PlayerGameSK",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:24:55",
+        "Current PB": "1:17:09"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "PlayerGameSK",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:43:26",
+        "Current PB": "1:27:44"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Nitrofski",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:06:40",
+        "Current PB": "2:06:18"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "vojtas131",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:49:13",
+        "Current PB": "1:48:23"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "HammerheadLabs",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:03:11",
+        "Current PB": "1:57:55"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Nitrofski",
+        "Team": "Everybody Gangsta Until They Face Magenta",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:09:10",
+        "Current PB": "2:52:56"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "fizz1862",
+        "Team": "ROX Esports",
+        "Game": "Super Mario 64",
+        "Run Time": "1:53:45",
+        "Current PB": "1:48:47"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "zGamuT",
+        "Team": "ROX Esports",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:43:33",
+        "Current PB": "3:28:47"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "TheMine2001",
+        "Team": "ROX Esports",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:23:28",
+        "Current PB": "6:06:40"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "CastleSR_",
+        "Team": "ROX Esports",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:44:55",
+        "Current PB": "9:14:54"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "g0goTBC",
+        "Team": "ROX Esports",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:15:56",
+        "Current PB": "2:09:54"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "g0goTBC",
+        "Team": "ROX Esports",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:39:00",
+        "Current PB": "4:33:09"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "zacharylawrence",
+        "Team": "ROX Esports",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:52:25",
+        "Current PB": "5:42:24"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Klaxxy73",
+        "Team": "ROX Esports",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:15:35",
+        "Current PB": "1:06:06"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Klaxxy73",
+        "Team": "ROX Esports",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:17:32",
+        "Current PB": "1:12:31"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Pianoman7117",
+        "Team": "ROX Esports",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:58:47",
+        "Current PB": "2:29:05"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "hop_Kid",
+        "Team": "ROX Esports",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:53:21",
+        "Current PB": "1:45:33"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "hop_Kid",
+        "Team": "ROX Esports",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:12:27",
+        "Current PB": "1:59:19"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "zacharylawrence",
+        "Team": "ROX Esports",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:16:26",
+        "Current PB": "3:06:52"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "LucoSRL",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Super Mario 64",
+        "Run Time": "1:57:27",
+        "Current PB": "1:51:26"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "sblectric",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "2:59:41",
+        "Current PB": "2:51:05"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Hexaroot",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:23:22",
+        "Current PB": "5:57:29"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "SuperViperT302",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:31:56",
+        "Current PB": "9:12:44"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "RayZoroa",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "3:11:47",
+        "Current PB": "3:11:47"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "QueenSnopea",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:50:40",
+        "Current PB": "4:44:48"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Awhitmore",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:48:46",
+        "Current PB": "5:27:16"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "stump230",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:48:00",
+        "Current PB": "1:33:04"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Stuart0000",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:10:56",
+        "Current PB": "1:07:17"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Bregermann",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:54:28",
+        "Current PB": "2:35:27"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Rui2Pop",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:42:59",
+        "Current PB": "1:42:59"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "WedSR",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:48:39",
+        "Current PB": "1:45:58"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Rui2Pop",
+        "Team": "Team 7 Ate Nein",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:57:00",
+        "Current PB": "3:44:35"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "beeve",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Super Mario 64",
+        "Run Time": "1:51:22",
+        "Current PB": "1:37:55"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "ImZachyWachy",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:30:04",
+        "Current PB": "3:53:45"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "allegedlymarco",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:43:22",
+        "Current PB": "5:30:10"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Odme_",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:14:55",
+        "Current PB": "8:57:41"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "beeve",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:52:42",
+        "Current PB": "2:16:41"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "MutantsAbyss",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Banjo-Tooie",
+        "Run Time": "6:06:32",
+        "Current PB": "5:43:29"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "L_Can",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:38:51",
+        "Current PB": "6:20:23"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "KieronSR",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:24:27",
+        "Current PB": "1:17:14"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "Groovy",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:09:51",
+        "Current PB": "1:09:08"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "KieronSR",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:13:54",
+        "Current PB": "2:11:02"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "debianchan",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:42:34",
+        "Current PB": "1:38:16"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "hypnoshark",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:45:13",
+        "Current PB": "1:41:30"
+    },
+    {
+        "Race": "Summer 2022",
+        "Runner": "hypnoshark",
+        "Team": "Boss'n Up on DVD featuring Snoop Dogg",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:46:48",
+        "Current PB": "3:22:40"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "KingJ0444",
+        "Team": "Garlic B",
+        "Game": "Super Mario 64",
+        "Run Time": "2:02:35",
+        "Current PB": "1:56:53"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "jukatox",
+        "Team": "Garlic B",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:18:40",
+        "Current PB": "3:12:36"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "galax_v",
+        "Team": "Garlic B",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:43:04",
+        "Current PB": "5:42:56"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Cubic3107_",
+        "Team": "Garlic B",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:09:13",
+        "Current PB": "9:12:44"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "DallzDLT",
+        "Team": "Garlic B",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:11:56",
+        "Current PB": "2:11:56"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "g0goTBC",
+        "Team": "Garlic B",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:40:04",
+        "Current PB": "4:33:09"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "CornCobx0",
+        "Team": "Garlic B",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:59:35",
+        "Current PB": "5:46:00"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "KylieKyubi",
+        "Team": "Garlic B",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:16:56",
+        "Current PB": "1:10:08"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "KylieKyubi",
+        "Team": "Garlic B",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:22:43",
+        "Current PB": "1:15:24"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "KylieKyubi",
+        "Team": "Garlic B",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:11:08",
+        "Current PB": "2:07:21"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Synyadriel",
+        "Team": "Garlic B",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:15:37",
+        "Current PB": "2:05:39"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Nuke_47",
+        "Team": "Garlic B",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:55:53",
+        "Current PB": "1:38:31"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Nuke_47",
+        "Team": "Garlic B",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:53:17",
+        "Current PB": "3:41:35"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "beeve",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Super Mario 64",
+        "Run Time": "1:46:42",
+        "Current PB": "1:37:55"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "ImZachyWachy",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:58:21",
+        "Current PB": "3:53:45"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "allegedlymarco",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:36:06",
+        "Current PB": "5:30:10"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Galaxtic",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:11:53",
+        "Current PB": "8:58:06"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "NadeTheGreat",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:03:31",
+        "Current PB": "2:00:46"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "NadeTheGreat",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:31:49",
+        "Current PB": "4:24:37"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Auphonium",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:55:08",
+        "Current PB": "5:29:20"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Awesome7285",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:33:00",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "ChaoticAether",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:18:33",
+        "Current PB": "1:16:37"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Bregermann",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "3:05:20",
+        "Current PB": "2:35:27"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Aldeezy1",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:35:32",
+        "Current PB": "1:31:44"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "AetherStrider",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:58:20",
+        "Current PB": "1:56:03"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Bregermann",
+        "Team": "Orange You Glad I Didn't Say Ohh Banana",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:29:28",
+        "Current PB": "4:21:09"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Expreli_",
+        "Team": "Freddy Fast Bears",
+        "Game": "Super Mario 64",
+        "Run Time": "2:06:16",
+        "Current PB": "1:55:06"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Odme_",
+        "Team": "Freddy Fast Bears",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:01:12",
+        "Current PB": "2:59:37"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "zGamuT",
+        "Team": "Freddy Fast Bears",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:42:14",
+        "Current PB": "5:28:45"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "IHaveNoLifeVV",
+        "Team": "Freddy Fast Bears",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:22:32",
+        "Current PB": "9:22:32"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Og_Big55",
+        "Team": "Freddy Fast Bears",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:35:25",
+        "Current PB": "2:20:49"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Shlongster7",
+        "Team": "Freddy Fast Bears",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:35:36",
+        "Current PB": "5:07:21"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Znernicus",
+        "Team": "Freddy Fast Bears",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:29:22",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "SuperSphere_",
+        "Team": "Freddy Fast Bears",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:13:59",
+        "Current PB": "1:13:59"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "SuperSphere_",
+        "Team": "Freddy Fast Bears",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:17:15",
+        "Current PB": "1:15:22"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "HammerheadLabs",
+        "Team": "Freddy Fast Bears",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:40:41",
+        "Current PB": "2:30:40"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "DylanJayFox",
+        "Team": "Freddy Fast Bears",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:49:06",
+        "Current PB": "1:43:24"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "DylanJayFox",
+        "Team": "Freddy Fast Bears",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:07:13",
+        "Current PB": "1:45:05"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "HammerheadLabs",
+        "Team": "Freddy Fast Bears",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:51:06",
+        "Current PB": "4:21:09"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "SuperViperT302",
+        "Team": "Purple Triangle Men",
+        "Game": "Super Mario 64",
+        "Run Time": "1:49:05",
+        "Current PB": "1:45:37"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Joecool57",
+        "Team": "Purple Triangle Men",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:32:33",
+        "Current PB": "3:28:29"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "dkr_bandow",
+        "Team": "Purple Triangle Men",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:11:22",
+        "Current PB": "6:11:22"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "CastleSR_",
+        "Team": "Purple Triangle Men",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:23:28",
+        "Current PB": "9:14:54"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "arex_sanx",
+        "Team": "Purple Triangle Men",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:15:43",
+        "Current PB": "2:06:59"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Toyomana",
+        "Team": "Purple Triangle Men",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:37:08",
+        "Current PB": "4:29:19"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Ad129",
+        "Team": "Purple Triangle Men",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:20:41",
+        "Current PB": "6:20:41"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Joeykastelic",
+        "Team": "Purple Triangle Men",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:11:17",
+        "Current PB": "1:02:18"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "PlayerGameSK",
+        "Team": "Purple Triangle Men",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:32:14",
+        "Current PB": "1:27:44"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "PlayerGameSK",
+        "Team": "Purple Triangle Men",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:23:47",
+        "Current PB": "2:15:23"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Ad129",
+        "Team": "Purple Triangle Men",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:16:39",
+        "Current PB": "2:16:39"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Bombercash",
+        "Team": "Purple Triangle Men",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:51:51",
+        "Current PB": "1:47:55"
+    },
+    {
+        "Race": "Summer 2023",
+        "Runner": "Bombercash",
+        "Team": "Purple Triangle Men",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:14:51",
+        "Current PB": "3:05:50"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Odme_",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Super Mario 64",
+        "Run Time": "1:41:00",
+        "Current PB": "1:39:44"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Odme_",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:05:51",
+        "Current PB": "2:59:37"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Galaxtic",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:37:09",
+        "Current PB": "5:28:18"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "swagh007",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:06:24",
+        "Current PB": "10:06:24"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "arex_sanx",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:09:19",
+        "Current PB": "2:06:59"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "zacharylawrence",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:06:33",
+        "Current PB": "5:04:10"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "CornCobx0",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:50:25",
+        "Current PB": "5:46:00"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "imainleesin",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:20:37",
+        "Current PB": "1:06:47"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Tom_TJ",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:03",
+        "Current PB": "1:14:32"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Bregermann",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:35:27",
+        "Current PB": "2:35:27"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Bregermann",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:52:27",
+        "Current PB": "1:52:27"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "zacharylawrence",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:39:28",
+        "Current PB": "1:32:59"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "imainleesin",
+        "Team": "Wake Me Up Before You Indigo-go",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:41:08",
+        "Current PB": "3:41:07"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "beeve",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Super Mario 64",
+        "Run Time": "1:43:30",
+        "Current PB": "1:37:55"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "SheilaSlays",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:47:27",
+        "Current PB": "3:45:04"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "meowmix_fan",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:04:06",
+        "Current PB": "6:04:06"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "marcoUntold",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:36:18",
+        "Current PB": "9:27:07"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "TSRStormed",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:25:45",
+        "Current PB": "2:17:23"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Candy_Boots",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:46:30",
+        "Current PB": "4:37:58"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Bismuth9",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:55:29",
+        "Current PB": "5:45:23"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Awesome7285",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:39:10",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "ChaoticAether",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:20:25",
+        "Current PB": "1:16:37"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Dereklander",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:12:23",
+        "Current PB": "2:11:01"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Aldeezy1",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:32:18",
+        "Current PB": "1:31:44"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "AetherStrider",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:01:18",
+        "Current PB": "1:56:03"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Dereklander",
+        "Team": "Team Purple Flurp (from Jimmy Neutron)",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:11:03",
+        "Current PB": "3:01:28"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "GoodGrieth",
+        "Team": "Big Laundry",
+        "Game": "Super Mario 64",
+        "Run Time": "1:47:21",
+        "Current PB": "1:42:07"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "KingJ0444",
+        "Team": "Big Laundry",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:49:17",
+        "Current PB": "3:43:15"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "ember77_",
+        "Team": "Big Laundry",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:12:28",
+        "Current PB": "5:58:59"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "tackleshift8",
+        "Team": "Big Laundry",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:46:23",
+        "Current PB": "9:32:48"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Duck",
+        "Team": "Big Laundry",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:07:58",
+        "Current PB": "1:58:52"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "linkarf",
+        "Team": "Big Laundry",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:04:50",
+        "Current PB": "4:38:15"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Auphonium",
+        "Team": "Big Laundry",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:37:36",
+        "Current PB": "5:29:20"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "SuperSphere_",
+        "Team": "Big Laundry",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:19:28",
+        "Current PB": "1:13:59"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "SuperSphere_",
+        "Team": "Big Laundry",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:56",
+        "Current PB": "1:15:22"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "notvanni",
+        "Team": "Big Laundry",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:04:09",
+        "Current PB": "2:03:27"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Synyadriel",
+        "Team": "Big Laundry",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:05:39",
+        "Current PB": "2:05:39"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Bradley_Gam1ng",
+        "Team": "Big Laundry",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:51:20",
+        "Current PB": "1:35:08"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "notvanni",
+        "Team": "Big Laundry",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "2:57:05",
+        "Current PB": "2:47:17"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Erthide",
+        "Team": "Goon-ba Squad",
+        "Game": "Super Mario 64",
+        "Run Time": "2:02:50",
+        "Current PB": "1:49:59"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "jasonmatthew20",
+        "Team": "Goon-ba Squad",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:29:56",
+        "Current PB": "4:29:56"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Erthide",
+        "Team": "Goon-ba Squad",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:47:58",
+        "Current PB": "5:34:50"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "SuperViperT302",
+        "Team": "Goon-ba Squad",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:19:25",
+        "Current PB": "9:12:44"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "NadeTheGreat",
+        "Team": "Goon-ba Squad",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:07:27",
+        "Current PB": "2:00:46"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "g0goTBC",
+        "Team": "Goon-ba Squad",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:35:06",
+        "Current PB": "4:33:09"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Awhitmore",
+        "Team": "Goon-ba Squad",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:38:14",
+        "Current PB": "5:27:16"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Pianoman7117",
+        "Team": "Goon-ba Squad",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:49:10",
+        "Current PB": "1:21:55"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Klaxxy73",
+        "Team": "Goon-ba Squad",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:24",
+        "Current PB": "1:12:31"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Pianoman7117",
+        "Team": "Goon-ba Squad",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:37:30",
+        "Current PB": "2:29:05"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "debianchan",
+        "Team": "Goon-ba Squad",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:42:49",
+        "Current PB": "1:38:16"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Nuke_47",
+        "Team": "Goon-ba Squad",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:47:14",
+        "Current PB": "1:38:31"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Nuke_47",
+        "Team": "Goon-ba Squad",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:49:41",
+        "Current PB": "3:41:35"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Expreli_",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Super Mario 64",
+        "Run Time": "1:57:36",
+        "Current PB": "1:55:06"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Expreli_",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:31:02",
+        "Current PB": "3:25:16"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "icupspeedruns_",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:33:35",
+        "Current PB": "6:33:35"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "CastleSR_",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:44:30",
+        "Current PB": "9:14:54"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "icupspeedruns_",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:44:30",
+        "Current PB": "10:03:59"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Shlongster7",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:03:19",
+        "Current PB": "1:59:57"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Ad129",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:08:18",
+        "Current PB": "6:20:41"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Znernicus",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:24:58",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "Ad129",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:51:23",
+        "Current PB": "1:51:23"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "PlayerGameSK",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:33:48",
+        "Current PB": "1:27:44"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "PlayerGameSK",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:22:04",
+        "Current PB": "2:15:23"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "superdave2",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:32:21",
+        "Current PB": "1:27:15"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "superdave2",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:52:03",
+        "Current PB": "1:44:48"
+    },
+    {
+        "Race": "Summer 2024",
+        "Runner": "PlayerGameSK",
+        "Team": "   Magenta isn't real it can't hurt you   ",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:56:18",
+        "Current PB": "3:43:21"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "druzspeedruns",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Super Mario 64",
+        "Run Time": "1:56:08",
+        "Current PB": "1:47:10"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "SheilaSlays",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:45:04",
+        "Current PB": "3:45:04"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "SNRobi",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:03:49",
+        "Current PB": "5:51:33"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "SuperViperT302",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:12:44",
+        "Current PB": "9:12:44"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "TySoN78",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:14:52",
+        "Current PB": "2:01:52"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Ad129",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:46:23",
+        "Current PB": "4:46:23"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Bismuth9",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:46:18",
+        "Current PB": "5:45:23"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "KylieKyubi",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:15:45",
+        "Current PB": "1:10:08"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "KylieKyubi",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:21:20",
+        "Current PB": "1:15:24"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "KylieKyubi",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:15:49",
+        "Current PB": "2:07:21"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Aldeezy1",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:47:57",
+        "Current PB": "1:31:44"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Aldeezy1",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "2:19:00",
+        "Current PB": "2:10:10"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "DylanJayFox",
+        "Team": "Orange Ducks of Various Sizes",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "4:24:51",
+        "Current PB": "4:18:38"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "TheNeedlemouse",
+        "Team": "I like my team purple bruh",
+        "Game": "Super Mario 64",
+        "Run Time": "2:06:45",
+        "Current PB": "2:06:45"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "calumj28",
+        "Team": "I like my team purple bruh",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:11:15",
+        "Current PB": "4:11:15"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "allegedlymarco",
+        "Team": "I like my team purple bruh",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:39:42",
+        "Current PB": "5:30:10"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "MarvJungs",
+        "Team": "I like my team purple bruh",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:22:08",
+        "Current PB": "9:08:14"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "iamnotaequitad",
+        "Team": "I like my team purple bruh",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "5:12:18",
+        "Current PB": "5:12:18"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "PlayerGameSK",
+        "Team": "I like my team purple bruh",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:24:57",
+        "Current PB": "5:10:59"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Znernicus",
+        "Team": "I like my team purple bruh",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:21:15",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "SuperSphere_",
+        "Team": "I like my team purple bruh",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:21:04",
+        "Current PB": "1:13:59"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "SuperSphere_",
+        "Team": "I like my team purple bruh",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:18:18",
+        "Current PB": "1:15:22"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "PlayerGameSK",
+        "Team": "I like my team purple bruh",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:19:45",
+        "Current PB": "2:15:23"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "traacee_",
+        "Team": "I like my team purple bruh",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:42:05",
+        "Current PB": "1:41:16"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Bradley_Gam1ng",
+        "Team": "I like my team purple bruh",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:39:14",
+        "Current PB": "1:35:08"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Uroogla",
+        "Team": "I like my team purple bruh",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:47:31",
+        "Current PB": "3:42:42"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Odme_",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Super Mario 64",
+        "Run Time": "1:50:09",
+        "Current PB": "1:39:44"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Galaxtic",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:35:30",
+        "Current PB": "3:21:24"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "swagh007",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:00:28",
+        "Current PB": "5:59:28"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "meowmix_fan",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:48:55",
+        "Current PB": "9:40:26"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "beeve",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:28:30",
+        "Current PB": "2:16:41"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Candy_Boots",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:38:53",
+        "Current PB": "4:37:58"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "MrTKettle",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:48:43",
+        "Current PB": "5:47:56"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Bregermann",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:49:34",
+        "Current PB": "1:45:10"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "ChaoticAether",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:21:23",
+        "Current PB": "1:16:37"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Bregermann",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:42:25",
+        "Current PB": "2:35:27"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "Koolaidanman1",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:29:25",
+        "Current PB": "1:27:17"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "superdave2",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:46:54",
+        "Current PB": "1:44:48"
+    },
+    {
+        "Race": "Summer 2025",
+        "Runner": "superdave2",
+        "Team": "Put the lime (green) in the Coconut",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:37:33",
+        "Current PB": "3:27:10"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "Paracusia",
+        "Team": "All-Stars",
+        "Game": "Super Mario 64",
+        "Run Time": "1:42:40",
+        "Current PB": "1:39:00"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "AverageTrey",
+        "Team": "All-Stars",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:07:39",
+        "Current PB": "2:59:58"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "Odme_",
+        "Team": "All-Stars",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:56:25",
+        "Current PB": "5:16:01"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "MutantsAbyss",
+        "Team": "All-Stars",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:20:43",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "Sivitybobo",
+        "Team": "All-Stars",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:02:52",
+        "Current PB": "1:59:27"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "UniVin",
+        "Team": "All-Stars",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:26:58",
+        "Current PB": "4:17:46"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "Connor75",
+        "Team": "All-Stars",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:33:03",
+        "Current PB": "5:10:47"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "Tebt_W",
+        "Team": "All-Stars",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:06:41",
+        "Current PB": "1:01:14"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "DylWingo",
+        "Team": "All-Stars",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:14:50",
+        "Current PB": "1:11:45"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "burgerlands2",
+        "Team": "All-Stars",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:12:46",
+        "Current PB": "1:58:58"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "SSBMstuff",
+        "Team": "All-Stars",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:29:11",
+        "Current PB": "1:20:56"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "Gazco",
+        "Team": "All-Stars",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:41:55",
+        "Current PB": "1:39:19"
+    },
+    {
+        "Race": "Summer 2019 (All-Stars)",
+        "Runner": "nerf",
+        "Team": "All-Stars",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:04:50",
+        "Current PB": "2:56:33"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "EthanRTA",
+        "Team": "Blue Dot",
+        "Game": "Super Mario 64",
+        "Run Time": "1:43:12",
+        "Current PB": "1:40:58"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "Dan6049",
+        "Team": "Blue Dot",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:47:30",
+        "Current PB": "3:42:55"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "NightShadow295",
+        "Team": "Blue Dot",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:32:22",
+        "Current PB": "6:29:57"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "icupspeedruns_",
+        "Team": "Blue Dot",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:52:23",
+        "Current PB": "10:03:59"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "SecretHumorMan",
+        "Team": "Blue Dot",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:16:20",
+        "Current PB": "2:12:04"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "imainleesin",
+        "Team": "Blue Dot",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:34:39",
+        "Current PB": "4:32:56"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "zacharylawrence",
+        "Team": "Blue Dot",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:43:40",
+        "Current PB": "5:42:24"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "Pianoman7117",
+        "Team": "Blue Dot",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:44:20",
+        "Current PB": "1:21:55"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "Neujahr98",
+        "Team": "Blue Dot",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:25:15",
+        "Current PB": "1:15:58"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "Bluntbows",
+        "Team": "Blue Dot",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:16:25",
+        "Current PB": "2:08:30"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "Neujahr98",
+        "Team": "Blue Dot",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:28:46",
+        "Current PB": "2:00:46"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "HoneySonya",
+        "Team": "Blue Dot",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:50:38",
+        "Current PB": "1:47:04"
+    },
+    {
+        "Race": "Summer 2025 (Blue Dot)",
+        "Runner": "notvanni",
+        "Team": "Blue Dot",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "2:50:51",
+        "Current PB": "2:47:17"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Jjsrll",
+        "Team": "Wales",
+        "Game": "Super Mario 64",
+        "Run Time": "1:44:12",
+        "Current PB": "1:41:37"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Jjsrll",
+        "Team": "Wales",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "2:56:25",
+        "Current PB": "2:55:58"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Jhay",
+        "Team": "Wales",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:09:56",
+        "Current PB": "5:06:03"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Jhay",
+        "Team": "Wales",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "8:58:21",
+        "Current PB": "8:41:48"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "hagg_64",
+        "Team": "Wales",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:01:07",
+        "Current PB": "1:58:19"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "hagg_64",
+        "Team": "Wales",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:31:01",
+        "Current PB": "4:25:03"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Connor75",
+        "Team": "Wales",
+        "Game": "Donkey Kong 64",
+        "Run Time": "5:16:13",
+        "Current PB": "5:10:47"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Potty",
+        "Team": "Wales",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:11:35",
+        "Current PB": "1:08:48"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Potty",
+        "Team": "Wales",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:11:10",
+        "Current PB": "1:09:04"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "Potty",
+        "Team": "Wales",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "1:59:01",
+        "Current PB": "1:57:43"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "hypnoshark",
+        "Team": "Wales",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:31:45",
+        "Current PB": "1:29:45"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "hypnoshark",
+        "Team": "Wales",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:44:27",
+        "Current PB": "1:41:30"
+    },
+    {
+        "Race": "Summer 2024 (Wales)",
+        "Runner": "hypnoshark",
+        "Team": "Wales",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:25:07",
+        "Current PB": "3:22:40"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "Jhay",
+        "Team": "Unknown",
+        "Game": "Super Mario 64",
+        "Run Time": "N/A",
+        "Current PB": "2:06:55"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "Jhay",
+        "Team": "Unknown",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "N/A",
+        "Current PB": "3:44:57"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "Jhay",
+        "Team": "Unknown",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "N/A",
+        "Current PB": "5:06:03"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "Jhay",
+        "Team": "Unknown",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "N/A",
+        "Current PB": "8:41:48"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "icupspeedruns_",
+        "Team": "Unknown",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "N/A",
+        "Current PB": "2:17:56"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "icupspeedruns_",
+        "Team": "Unknown",
+        "Game": "Banjo-Tooie",
+        "Run Time": "N/A",
+        "Current PB": "4:11:03"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "Znernicus",
+        "Team": "Unknown",
+        "Game": "Donkey Kong 64",
+        "Run Time": "N/A",
+        "Current PB": "5:20:16"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "hypnoshark",
+        "Team": "Unknown",
+        "Game": "Crash Bandicoot",
+        "Run Time": "N/A",
+        "Current PB": "1:12:33"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "hypnoshark",
+        "Team": "Unknown",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "N/A",
+        "Current PB": "1:16:32"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "hypnoshark",
+        "Team": "Unknown",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "N/A",
+        "Current PB": "2:09:08"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "hypnoshark",
+        "Team": "Unknown",
+        "Game": "Spyro the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "1:29:45"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "hypnoshark",
+        "Team": "Unknown",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "N/A",
+        "Current PB": "1:41:30"
+    },
+    {
+        "Race": "Summer 2024 (Jhay)",
+        "Runner": "hypnoshark",
+        "Team": "Unknown",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "3:22:40"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "EthanRTA",
+        "Team": "Blue Dot",
+        "Game": "Super Mario 64",
+        "Run Time": "1:48:50",
+        "Current PB": "1:40:58"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "Dan6049",
+        "Team": "Blue Dot",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:03:57",
+        "Current PB": "3:42:55"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "icupspeedruns_",
+        "Team": "Blue Dot",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:34:05",
+        "Current PB": "6:33:35"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "zacharylawrence",
+        "Team": "Blue Dot",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "10:53:17",
+        "Current PB": "10:31:05"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "SecretHumorMan",
+        "Team": "Blue Dot",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "N/A",
+        "Current PB": "2:12:04"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "SecretHumorMan",
+        "Team": "Blue Dot",
+        "Game": "Banjo-Tooie",
+        "Run Time": "N/A",
+        "Current PB": "4:33:43"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "L_Can",
+        "Team": "Blue Dot",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:31:14",
+        "Current PB": "6:20:23"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "Klaxxy73",
+        "Team": "Blue Dot",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:11:05",
+        "Current PB": "1:06:06"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "Lukademus",
+        "Team": "Blue Dot",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:16:26",
+        "Current PB": "1:10:49"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "Pianoman7117",
+        "Team": "Blue Dot",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:44:12",
+        "Current PB": "2:29:05"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "spora777",
+        "Team": "Blue Dot",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:27:19",
+        "Current PB": "1:21:56"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "Neujahr98",
+        "Team": "Blue Dot",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:41:29",
+        "Current PB": "1:38:26"
+    },
+    {
+        "Race": "Summer 2023 (Blue Dot)",
+        "Runner": "Bluntbows",
+        "Team": "Blue Dot",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:05:26",
+        "Current PB": "2:55:19"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "FireGoesFast",
+        "Team": "Team Australia",
+        "Game": "Super Mario 64",
+        "Run Time": "1:50:36",
+        "Current PB": "1:52:46"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "ImZachyWachy",
+        "Team": "Team Australia",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:19:24",
+        "Current PB": "3:53:45"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "lachurs",
+        "Team": "Team Australia",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:41:23",
+        "Current PB": "6:00:38"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Anonymous Player",
+        "Team": "Team Australia",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:35:55",
+        "Current PB": "9:35:55"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "TySoN78",
+        "Team": "Team Australia",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:24:03",
+        "Current PB": "2:01:52"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "TySoN78",
+        "Team": "Team Australia",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:22:37",
+        "Current PB": "5:22:37"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "FireGoesFast",
+        "Team": "Team Australia",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:29:38",
+        "Current PB": "6:25:01"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Awesome7285",
+        "Team": "Team Australia",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:50:39",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Awesome7285",
+        "Team": "Team Australia",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "2:23:12",
+        "Current PB": "2:01:12"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Awesome7285",
+        "Team": "Team Australia",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:57:59",
+        "Current PB": "3:48:54"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Fady180",
+        "Team": "Team Australia",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:52:54",
+        "Current PB": "1:36:35"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Bored_Banana",
+        "Team": "Team Australia",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "1:55:05",
+        "Current PB": "1:53:32"
+    },
+    {
+        "Race": "Spring 2023 (Australia)",
+        "Runner": "Dactyly",
+        "Team": "Team Australia",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:24:26",
+        "Current PB": "3:09:57"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Duck",
+        "Team": "Meme",
+        "Game": "Super Mario 64",
+        "Run Time": "14:51:39",
+        "Current PB": "14:51:39"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "ImZachyWachy",
+        "Team": "Meme",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "4:37:54",
+        "Current PB": "3:53:45"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Awesome7285",
+        "Team": "Meme",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "7:05:50",
+        "Current PB": "6:53:30"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Awesome7285",
+        "Team": "Meme",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "12:05:04",
+        "Current PB": "11:39:15"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Ad129",
+        "Team": "Meme",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:32:11",
+        "Current PB": "2:27:56"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Ad129",
+        "Team": "Meme",
+        "Game": "Banjo-Tooie",
+        "Run Time": "5:08:46",
+        "Current PB": "4:46:23"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Ad129",
+        "Team": "Meme",
+        "Game": "Donkey Kong 64",
+        "Run Time": "7:15:18",
+        "Current PB": "6:20:41"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Awesome7285",
+        "Team": "Meme",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:59:29",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "PlayerGameSK",
+        "Team": "Meme",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:41:27",
+        "Current PB": "1:27:44"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "PlayerGameSK",
+        "Team": "Meme",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:35:17",
+        "Current PB": "2:15:23"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "PlayerGameSK",
+        "Team": "Meme",
+        "Game": "Spyro the Dragon",
+        "Run Time": "2:04:43",
+        "Current PB": "1:47:34"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "PlayerGameSK",
+        "Team": "Meme",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "3:59:29",
+        "Current PB": "1:56:50"
+    },
+    {
+        "Race": "Summer 2022 (Meme)",
+        "Runner": "Dereklander",
+        "Team": "Meme",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "3:42:03",
+        "Current PB": "3:01:28"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "Ringo792",
+        "Team": "Voyage",
+        "Game": "Super Mario 64",
+        "Run Time": "1:46:33",
+        "Current PB": "1:41:49"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "Expreli_",
+        "Team": "Voyage",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:52:13",
+        "Current PB": "3:25:16"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "HexSpeedruns",
+        "Team": "Voyage",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "5:49:06",
+        "Current PB": "5:32:52"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "FireGoesFast",
+        "Team": "Voyage",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:38:44",
+        "Current PB": "9:38:44"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "hagg_64",
+        "Team": "Voyage",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "2:22:27",
+        "Current PB": "1:58:19"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "hagg_64",
+        "Team": "Voyage",
+        "Game": "Banjo-Tooie",
+        "Run Time": "4:34:12",
+        "Current PB": "4:25:03"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "GeneralToucans",
+        "Team": "Voyage",
+        "Game": "Donkey Kong 64",
+        "Run Time": "6:07:37",
+        "Current PB": "5:44:18"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "Klaxxy73",
+        "Team": "Voyage",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:16:16",
+        "Current PB": "1:06:06"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "GeneralToucans",
+        "Team": "Voyage",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "1:22:29",
+        "Current PB": "1:22:29"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "CookieNaval",
+        "Team": "Voyage",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "2:26:36",
+        "Current PB": "2:22:11"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "ZingoChris",
+        "Team": "Voyage",
+        "Game": "Spyro the Dragon",
+        "Run Time": "1:47:23",
+        "Current PB": "1:26:05"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "HammerheadLabs",
+        "Team": "Voyage",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "N/A",
+        "Current PB": "1:57:55"
+    },
+    {
+        "Race": "Spring 2022 (Voyage)",
+        "Runner": "HammerheadLabs",
+        "Team": "Voyage",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "4:21:09"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "PlayerGameSK",
+        "Team": "Red Fish",
+        "Game": "Super Mario 64",
+        "Run Time": "N/A",
+        "Current PB": "2:10:22"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "TheBreadghost",
+        "Team": "Red Fish",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "3:30:38",
+        "Current PB": "3:28:13"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Awesome7285",
+        "Team": "Red Fish",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "6:53:29",
+        "Current PB": "6:53:30"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Galaxtic",
+        "Team": "Red Fish",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "9:15:06",
+        "Current PB": "8:58:06"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Ad129",
+        "Team": "Red Fish",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "N/A",
+        "Current PB": "2:27:56"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Ad129",
+        "Team": "Red Fish",
+        "Game": "Banjo-Tooie",
+        "Run Time": "N/A",
+        "Current PB": "4:46:23"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Ad129",
+        "Team": "Red Fish",
+        "Game": "Donkey Kong 64",
+        "Run Time": "N/A",
+        "Current PB": "6:20:41"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Awesome7285",
+        "Team": "Red Fish",
+        "Game": "Crash Bandicoot",
+        "Run Time": "1:33:56",
+        "Current PB": "1:32:29"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "PlayerGameSK",
+        "Team": "Red Fish",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "N/A",
+        "Current PB": "1:27:44"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "PlayerGameSK",
+        "Team": "Red Fish",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "N/A",
+        "Current PB": "2:15:23"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Bregermann",
+        "Team": "Red Fish",
+        "Game": "Spyro the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "1:52:27"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Bregermann",
+        "Team": "Red Fish",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "N/A",
+        "Current PB": "2:07:22"
+    },
+    {
+        "Race": "Summer 2023 (Red Fish)",
+        "Runner": "Bregermann",
+        "Team": "Red Fish",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "4:21:09"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "MutantsAbyss",
+        "Team": "Co-Op",
+        "Game": "Super Mario 64",
+        "Run Time": "N/A",
+        "Current PB": "1:54:15"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "MutantsAbyss",
+        "Team": "Co-Op",
+        "Game": "Super Mario Sunshine",
+        "Run Time": "N/A",
+        "Current PB": "3:12:31"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "MutantsAbyss",
+        "Team": "Co-Op",
+        "Game": "Super Mario Galaxy",
+        "Run Time": "N/A",
+        "Current PB": "5:31:57"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "MutantsAbyss",
+        "Team": "Co-Op",
+        "Game": "Super Mario Galaxy 2",
+        "Run Time": "N/A",
+        "Current PB": "9:01:54"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "MutantsAbyss",
+        "Team": "Co-Op",
+        "Game": "Banjo-Kazooie",
+        "Run Time": "N/A",
+        "Current PB": "2:49:08"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "MutantsAbyss",
+        "Team": "Co-Op",
+        "Game": "Banjo-Tooie",
+        "Run Time": "N/A",
+        "Current PB": "5:43:29"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Donkey Kong 64",
+        "Run Time": "N/A",
+        "Current PB": "5:42:24"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Crash Bandicoot",
+        "Run Time": "N/A",
+        "Current PB": "1:12:50"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+        "Run Time": "N/A",
+        "Current PB": "1:27:08"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Crash Bandicoot: WARPED",
+        "Run Time": "N/A",
+        "Current PB": "2:15:20"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Spyro the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "1:29:24"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Spyro 2: Ripto's Rage!",
+        "Run Time": "N/A",
+        "Current PB": "1:32:59"
+    },
+    {
+        "Race": "Spring 2021 (Co-Op)",
+        "Runner": "zacharylawrence",
+        "Team": "Co-Op",
+        "Game": "Spyro: Year of the Dragon",
+        "Run Time": "N/A",
+        "Current PB": "3:06:52"
+    }
+]

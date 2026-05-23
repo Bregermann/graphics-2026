@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+
+:root {
+  --foreground: #171717;
+  --main-team-color: blue;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: black;
+    --foreground: #fdfdfd;
+  }
+}
+
+.main {
+  background: linear-gradient(90deg,var(--main-team-color, purple) 0%, black 44%);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Encode Sans Condensed', Helvetica, sans-serif;
+}
+
+h5 {
+  font-family: 'Encode Sans';
+  font-size: 72px;
+  font-weight: 1000;
+  text-shadow: 4px 2px 20px black; 
+  text-align: right;
+  padding: .1rem;
+}
+
+h4 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 5px 5px 20px black; 
+  text-align: right;
+  padding: 0.05rem;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+  text-shadow: 2px 1px black; 
+  text-align: right;
+  padding: 0.2rem;
+}
+
+iframe .complete {
+  visibility: collapse;
+}
+
+progress::-webkit-progress-value {
+  background: goldenrod;
+}
+
+.rust {
+  border-color: #592104;
+}
+
+.purple {
+  border-color: purple;
+}
+
+.red {
+  border-color: red;
+}
+
+.peach {
+  border-color: #f6a192;
+}
+
+.mint {
+  border-color: palegreen;
+}
+
+.pink {
+  border-color: hotpink;
+}
+
+.cyan {
+  border-color: cyan;
+}
+
+.gold {
+  border-color: gold;
+}
+
+Link {
+  font-size: 64px;
+}
+
+Row .sub-streams {
+  position: fixed;
+  bottom: 0
+}

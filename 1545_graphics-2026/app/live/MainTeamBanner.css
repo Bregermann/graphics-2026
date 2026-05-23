@@ -1,0 +1,171 @@
+@import "tailwindcss";
+
+.curr-game {
+    display: flex;
+    position: sticky;
+    filter: drop-shadow(25px 20px 80px rgba(0, 0, 0, 0.95))
+}
+
+.main-text h5 {
+    word-spacing: 2px;
+    font-size: 75px;
+    text-align: center;
+}
+
+.main-text h4 {
+    word-spacing: 2px;
+    font-size: 75px;
+    text-align: center;
+}
+
+.main-text h3 {
+    word-spacing: 2px;
+    font-size: 70px;
+    text-align: center;
+}
+
+.main-text h3.no-pronouns {
+    visibility: hidden;
+}
+
+.main-banner {
+    width:1110px;
+    height: fit-content;
+}
+
+.in-progress {
+    filter: grayscale(100%);
+}
+
+.incomplete {
+    filter: brightness(0%);
+}
+
+.main-banner #sm64 {
+    width:1000px;
+    height: 300px;
+    transform: translate(0px, 0px);
+    scale:120%
+}
+
+.main-banner #sms {
+    width:500px;
+    height: 300px;
+    transform: translate(48%, 0px);
+}
+
+.main-banner #smg1 {
+    width:500px;
+    height: 300px;
+    transform: translate(50%, 0px);
+}
+
+.main-banner #smg2 {
+    width:500px;
+    height: 300px;
+    transform: translate(50%, 0px);
+}
+
+.main-banner #bk {
+    width:600px;
+    height: 300px;
+    transform: translate(30%, 0px);
+}
+
+.main-banner #dk64 {
+    width:400px;
+    height: 300px;
+    transform: translate(70%, 0px);
+}
+
+.main-banner #c1 {
+    width:500px;
+    height: 318px;
+    transform: translate(45%, 0px);
+}
+
+.main-banner #c2 {
+    width:500px;
+    height: 300px;
+    transform: translate(45%, 0px);
+}
+
+.main-banner #c3 {
+    width:500px;
+    height: 300px;
+    transform: translate(240px, 00px);
+}
+
+.main-banner #s1 {
+    width:400px;
+    height: 300px;
+    transform: translate(70%, 0px);
+}
+
+.main-banner #s2 {
+    width:400px;
+    height: 300px;
+    transform: translate(74%, 30px);
+}
+
+.main-banner #s3 {
+    width:500px;
+    height: 300px;
+    transform: translate(48%, 0px);
+}
+
+.main-banner.rust-banner {
+    background: url("/logos/team_emotes/rusty_bucket_babes.png") no-repeat scroll 40% 100%;
+    background-size: 'cover';
+    background-color: #833424;
+    background-blend-mode: multiply;
+}
+
+.main-banner.purple-banner {
+    background: url("/logos/team_emotes/grape_apes.png") no-repeat scroll 50% 100%;
+    background-size: 'cover';
+    background-color: rgb(53, 0, 53);
+    background-blend-mode: multiply;
+}
+
+.main-banner.red-banner {
+    background: url("/logos/team_emotes/silly_willies.png") no-repeat scroll 40% 100%;
+    background-size: 'cover';
+    background-color: rgb(71, 0, 0);
+    background-blend-mode: multiply;
+}
+
+.main-banner.peach-banner {
+    background: url("/logos/team_emotes/peach_and_co.png") no-repeat scroll 10% 100%;
+    background-size: 'cover';
+    background-color: rgb(77, 50, 45);
+    background-blend-mode: multiply;
+}
+
+.main-banner.mint-banner {
+    background: url("/logos/team_emotes/mintallyinsane.png") no-repeat scroll 0% 100%;
+    background-size: 180% 100%;
+    background-color: rgb(67, 110, 67);
+    background-blend-mode: multiply;
+}
+
+.main-banner.pink-banner {
+    background: url("/logos/team_emotes/hot.png") no-repeat scroll 30% 100%;
+    background-size: 'contain';
+    background-color: rgb(59, 24, 42);
+    background-blend-mode: multiply;
+}
+
+.main-banner.cyan-banner {
+    background: url("/logos/team_emotes/green_tea_m.png") no-repeat scroll 80% 100%;
+    background-size: 180% 100%;
+    background-color: rgb(0, 70, 70);
+    background-blend-mode: multiply;
+}
+
+.main-banner.gold-banner {
+    background: url("/logos/team_emotes/gaslight.png") no-repeat scroll 15% 100%;
+    background-size: 'contain';
+    background-color: rgb(77, 59, 13);
+    background-blend-mode: multiply;
+}

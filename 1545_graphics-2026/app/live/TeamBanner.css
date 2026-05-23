@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+.curr-game {
+    display: flex;
+    position: sticky;
+    filter: drop-shadow(25px 12px 30px rgba(65, 64, 64, 0.75))
+}
+
+#sm64 {
+    transform: translate(0px, -60px);
+}
+
+#sms {
+    transform: translate(0px, -15px);
+}
+
+#smg1 {
+    transform: translate(0px, -20px);
+}
+
+#bk {
+    transform: translate(0px, 10px);
+}
+
+#c2 {
+    transform: translate(0px, -30px);
+}
+
+#c3 {
+    transform: translate(0px, -30px);
+}
+
+#s1 {
+    transform: translate(0px, -20px);
+}
+
+#s2 {
+    transform: translate(0px, -30px);
+}
+
+#s3 {
+    transform: translate(0px, -40px);
+}
+
+.rust-banner {
+    background: url("/logos/team_emotes/rusty_bucket_babes.png") no-repeat scroll 0% 55%;
+    background-size: 'cover';
+    background-color: #7e1f0f;
+    background-blend-mode: multiply;
+}
+
+.purple-banner {
+    background: url("/logos/team_emotes/grape_apes.png") no-repeat scroll 35% 20%;
+    background-size: 'cover';
+    background-color: rgb(78, 0, 78);
+    background-blend-mode: multiply;
+}
+
+.red-banner {
+    background: url("/logos/team_emotes/silly_willies.png") no-repeat scroll 35% 20%;
+    background-size: 'cover';
+    background-color: rgb(80, 0, 0);
+    background-blend-mode: multiply;
+}
+
+.peach-banner {
+    background: url("/logos/team_emotes/peach_and_co.png") no-repeat scroll 25% 50%;
+    background-size: 'cover';
+    background-color: rgb(117, 87, 61);
+    background-blend-mode: multiply;
+}
+
+.mint-banner {
+    background: url("/logos/team_emotes/mintallyinsane.png") no-repeat scroll 00% 35%;
+    background-size: 'cover';
+    background-color: rgb(67, 110, 67);
+    background-blend-mode: multiply;
+}
+
+.pink-banner {
+    background: url("/logos/team_emotes/hot.png") no-repeat scroll 0% 55%;
+    background-size: 'cover';
+    background-color: rgb(138, 59, 99);
+    background-blend-mode: multiply;
+}
+
+.cyan-banner {
+    background: url("/logos/team_emotes/green_tea_m.png") no-repeat scroll 85% 30%;
+    background-size: 'cover';
+    background-color: rgb(0, 44, 44);
+    background-blend-mode: multiply;
+}
+
+.gold-banner {
+    background: url("/logos/team_emotes/gaslight.png") no-repeat scroll 15% 70%;
+    background-size: 'cover';
+    background-color: rgb(77, 59, 13);
+    background-blend-mode: multiply;
+}
