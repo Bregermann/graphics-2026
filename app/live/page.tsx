@@ -1,4 +1,4 @@
-'use client'
+'use server'
 import Image from "next/image";
 import TwitchEmbed from "./TwitchEmbed";
 import MainTwitchEmbed from "./MainTwitchEmbed"
@@ -6,17 +6,21 @@ import TeamBanner from "./TeamBanner"
 import Teams from "./data/teams_new.json"
 import { Suspense } from 'react'
 import { Container, Row, Col } from "react-bootstrap";
-import { useSearchParams } from "next/navigation";
 import { connection } from "next/server";
 
-export default function Live() {
+type SearchParams = {
+    searchParams?: Promise<Record<string, string>>
+}
 
-    const searchParams = useSearchParams();
+export default async function Live({searchParams} : SearchParams) {
+
+    await connection();
+    const params = new URLSearchParams(await searchParams);
     
     
     
-    console.log("search params: " + searchParams.get("main"))
-    const main = Number(searchParams.get("main"))
+    console.log("search params: " + params.get("main"))
+    const main = Number(params.get("main"))
     const currRuns = [1, 2, 3, 11, 0, 12, 6, 4]
     const teamEmotePaths = [
         '/logos/team_emotes/rusty_bucket_babes.png',
