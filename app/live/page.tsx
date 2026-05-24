@@ -3,14 +3,13 @@ import Image from "next/image";
 import TwitchEmbed from "./TwitchEmbed";
 import MainTwitchEmbed from "./MainTwitchEmbed"
 import TeamBanner from "./TeamBanner"
-import MainTeamBanner from "./MainTeamBanner"
 import Teams from "./data/teams_new.json"
-import Suspense from 'react'
+import { Suspense } from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import { useSearchParams } from "next/navigation";
 import { connection } from "next/server";
 
-export default async function Live() {
+export default function Live() {
 
     const searchParams = useSearchParams();
     
@@ -57,7 +56,7 @@ export default async function Live() {
     })
 
     return (
-    
+    <Suspense fallback={<div className="m-4 flex justify-items-center"><Image className="m-4 justify-content" src="/logos/1545.png" alt="1545 logo" width={1000} height={1000} priority/></div>}>
         <Container className="page-feed" fluid>
             <Row className="flex m-6">
                 <Col>{banners}</Col>
@@ -67,5 +66,6 @@ export default async function Live() {
                 {sub_streams}
             </Row>
         </Container>
+    </Suspense>
     )
 }
