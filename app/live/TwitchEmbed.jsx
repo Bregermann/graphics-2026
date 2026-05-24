@@ -1,4 +1,4 @@
-import {Col, Row} from "reactstrap";
+import {Col, Row} from "react-bootstrap";
 import RunnerInfo from "./data/runnerinfo_new.json"
 
 const TwitchEmbed = ({team, currRun}) => {

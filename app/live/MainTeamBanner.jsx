@@ -1,6 +1,6 @@
 import Games from "./data/games.json"
 import RunnerInfo from "./data/runnerinfo_new.json"
-import {Container, Row, Col} from "reactstrap"
+import {Container, Row, Col} from "react-bootstrap"
 import Image from "next/image"
 import "./MainTeamBanner.css"
 

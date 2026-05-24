@@ -6,14 +6,15 @@ import TeamBanner from "./TeamBanner"
 import MainTeamBanner from "./MainTeamBanner"
 import Teams from "./data/teams_new.json"
 import Suspense from 'react'
-import { Container, Row, Col } from "reactstrap"
+import { Container, Row, Col } from "react-bootstrap";
 import { useSearchParams } from "next/navigation";
 import { connection } from "next/server";
 
 export default async function Live() {
 
-    await connection();
-    const searchParams = useSearchParams()
+    const searchParams = useSearchParams();
+    
+    
     
     console.log("search params: " + searchParams.get("main"))
     const main = Number(searchParams.get("main"))
@@ -57,7 +58,6 @@ export default async function Live() {
 
     return (
     
-    <Suspense fallback={<div>Loading...</div>}>
         <Container className="page-feed" fluid>
             <Row className="flex m-6">
                 <Col>{banners}</Col>
@@ -67,6 +67,5 @@ export default async function Live() {
                 {sub_streams}
             </Row>
         </Container>
-    </Suspense>
     )
 }

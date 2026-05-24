@@ -1,4 +1,4 @@
-import { Container, Row, Col } from "reactstrap"
+import { Container, Row, Col } from "react-bootstrap"
 import RunnerInfo from "./data/runnerinfo_new.json"
 import MainTeamBanner from "./MainTeamBanner";
 
