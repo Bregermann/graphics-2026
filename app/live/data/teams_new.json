@@ -7,24 +7,89 @@
         "schedule": {
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
-                {"name":"aldeezy1", "game": "Super Mario 64"},
-                {"name":"Calum", "game": "Super Mario Sunshine"},
-                {"name":"Calum", "game": "Super Mario Galaxy"},
-                {"name":"SNRobi", "game": "Super Mario Galaxy 2"},
-                {"name":"TySoN78", "game": "Banjo-Kazooie"},
-                {"name":"g0goTBC", "game": "Banjo-Tooie"},
-                {"name":"Awhitmore", "game": "Donkey Kong 64"},
-                {"name":"Brando", "game": "Crash Bandicoot"},
-                {"name":"Brando", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"Dereklander", "game": "Crash Bandicoot: WARPED"},
-                {"name":"8va", "game": "Spyro the Dragon"},
-                {"name":"aldeezy1", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Dactyly", "game": "Spyro: Year of the Dragon"}
+
+                {"name":"aldeezy1", "game": "Super Mario 64",
+                 "submission_pb":"2:32:53",
+                 "final_pb":"2:28:05",
+                 "lp":33915
+                },
+
+                {"name":"Calum", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:59:01",
+                 "final_pb":"3:50:57",
+                 "lp":48144
+                },
+
+                {"name":"Calum", "game": "Super Mario Galaxy",
+                 "submission_pb":"6:26:49"
+                
+            
+                },
+
+                {"name":"SNRobi", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"9:49:51"
+                
+                
+                },
+
+                {"name":"TySoN78", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:01:52"
+                
+                
+                },
+
+                {"name":"g0goTBC", "game": "Banjo-Tooie",
+                 "submission_pb":"4:26:22",
+                 "lp":80683
+
+                },
+
+                {"name":"Awhitmore", "game": "Donkey Kong 64",
+                 "submission_pb":"5:23:10"
+                
+                
+                },
+
+                {"name":"Brando", "game": "Crash Bandicoot", 
+                 "submission_pb":"1:19:52"
+                
+                
+                },
+
+                {"name":"Brando", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:31:39"
+                
+                
+                },
+
+                {"name":"Dereklander", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:11:01",
+                 "final_pb":"2:09:57",
+                 "lp":28304
+                },
+
+                {"name":"8va", "game": "Spyro the Dragon",
+                "submission_pb":"1:34:04"
+            
+            
+                },
+
+                {"name":"aldeezy1", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"2:10:10"
+                
+                
+                },
+
+                {"name":"Dactyly", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"2:59:37",
+                 "final_pb":"2:58:25",
+                 "lp":47568
+                }
             ]
         }
     },
 
-        {
+    {
         "team_name":"Grape Apes",
         "team_color":"purple",
         "team_number": 2,
@@ -32,24 +97,87 @@
         "schedule": {
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
-                {"name":"SheilaSlays", "game": "Super Mario 64"},
-                {"name":"BlauerKeks", "game": "Super Mario Sunshine"},
-                {"name":"SheilaSlays", "game": "Super Mario Galaxy"},
-                {"name":"Galaxtic", "game": "Super Mario Galaxy 2"},
-                {"name":"SHLONGSTER", "game": "Banjo-Kazooie"},
-                {"name":"UniVin", "game": "Banjo-Tooie"},
-                {"name":"Auphonium", "game": "Donkey Kong 64"},
-                {"name":"trace", "game": "Crash Bandicoot"},
-                {"name":"Nuke_", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"Nuke_", "game": "Crash Bandicoot: WARPED"},
-                {"name":"Tulin", "game": "Spyro the Dragon"},
-                {"name":"superdave2", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Nuke_", "game": "Spyro: Year of the Dragon"}
+                {"name":"SheilaSlays", "game": "Super Mario 64",
+                 "submission_pb":"2:07:48"
+                
+                
+                },
+
+                {"name":"BlauerKeks", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:45:29"
+                
+                
+                },
+
+                {"name":"SheilaSlays", "game": "Super Mario Galaxy",
+                 "submission_pb":"6:09:12",
+                 "final_pb":"6:04:23",
+                 "lp":33769},
+
+                {"name":"Galaxtic", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"8:58:06"
+                
+                
+                },
+
+                {"name":"SHLONGSTER", "game": "Banjo-Kazooie",
+                 "submission_pb":"1:59:57"
+                
+                
+                },
+
+                {"name":"UniVin", "game": "Banjo-Tooie",
+                 "submission_pb":"4:17:46"
+                
+                
+                },
+                 
+                {"name":"Auphonium", "game": "Donkey Kong 64",
+                 "submission_pb":"5:29:20"
+                
+                
+                },
+
+                {"name":"trace", "game": "Crash Bandicoot",
+                 "submission_pb":"1:32:46",
+                 "final_pb":"1:26:15",
+                 "lp":96250
+                },
+
+                {"name":"Nuke_", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:46:22"
+                
+                
+                },
+
+                {"name":"Nuke_", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:47:38"
+            
+            
+                },
+
+                {"name":"Tulin", "game": "Spyro the Dragon",
+                 "submission_pb":"2:22:17"
+                
+                
+                },
+
+                {"name":"superdave2", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:39:47"
+                
+                
+                },
+
+                {"name":"Nuke_", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"3:41:35",
+                 "final_pb":"3:32:09",
+                 "lp":90294
+                }
             ]
         }
     },
 
-        {
+    {
         "team_name":"Silly Willies",
         "team_color":"red",
         "team_number": 3,
@@ -57,49 +185,173 @@
         "schedule": {
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
-                {"name":"SayHarry", "game": "Super Mario 64"},
-                {"name":"Ceddy", "game": "Super Mario Sunshine"},
-                {"name":"PinShark", "game": "Super Mario Galaxy"},
-                {"name":"SuperViperT302", "game": "Super Mario Galaxy 2"},
-                {"name":"ZingoChris", "game": "Banjo-Kazooie"},
-                {"name":"Znernicus", "game": "Banjo-Tooie"},
-                {"name":"Znernicus", "game": "Donkey Kong 64"},
-                {"name":"C0dek", "game": "Crash Bandicoot"},
-                {"name":"C0dek", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"Bregermann", "game": "Crash Bandicoot: WARPED"},
-                {"name":"WillyWallglide", "game": "Spyro the Dragon"},
-                {"name":"HoneySonya", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Bregermann", "game": "Spyro: Year of the Dragon"}
+                {"name":"SayHarry", "game": "Super Mario 64",
+                 "submission_pb":"2:12:37"
+                
+                
+                },
+
+                {"name":"Ceddy", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:10:47"
+                
+                },
+
+                {"name":"PinShark", "game": "Super Mario Galaxy",
+                 "submission_pb":"5:54:19"
+                
+                
+                },
+
+                {"name":"SuperViperT302", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"9:12:44"
+                
+                
+                },
+
+                {"name":"ZingoChris", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:36:27",
+                 "final_pb":"2:26:46",
+                 "lp":137403
+                },
+
+                {"name":"Znernicus", "game": "Banjo-Tooie",
+                 "submission_pb":"5:18:13",
+                 "final_pb":"4:48:50",
+                 "lp":186130
+                },
+
+                {"name":"Znernicus", "game": "Donkey Kong 64",
+                 "submission_pb":"5:16:01"
+                
+                
+                },
+
+                {"name":"C0dek", "game": "Crash Bandicoot",
+                 "submission_pb":"1:30:14",
+                 "final_pb":"1:18:51",
+                 "lp":159750
+                },
+
+                {"name":"C0dek", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:16:32",
+                 "final_pb":"1:14:54",
+                 "lp":55924
+                },
+
+                {"name":"Bregermann", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:35:27"
+                
+                
+                },
+
+                {"name":"WillyWallglide", "game": "Spyro the Dragon",
+                 "submission_pb":"1:27:19", 
+                 "final_pb":"1:26:48", 
+                 "lp":24394
+                },
+
+                {"name":"HoneySonya", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:47:04", 
+                 "final_pb":"1:45:09", 
+                 "lp":46891
+                },
+
+                {"name":"Bregermann", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"4:21:09", 
+                 "final_pb":"4:04:57", 
+                 "lp":93653
+                }
             ]
         }
     },
 
-        {
+    {
         "team_name":"Peach and Co. Law Offices",
         "team_color":"peach",
         "team_number": 4,
         "finished":0,
         "schedule": {
-            "run_order":[7, 10, 3, 11, 6, 8, 12, 9, 13, 5, 1, 2, 4],
+            "run_order":[6, 9, 2, 10, 5, 7, 11, 8, 12, 4, 0, 1, 3],
             "runs": [
-                {"name":"Alana", "game": "Super Mario 64"},
-                {"name":"Dan6049", "game": "Super Mario Sunshine"},
-                {"name":"Timkario", "game": "Super Mario Galaxy"},
-                {"name":"galaxv", "game": "Super Mario Galaxy 2"},
-                {"name":"Linkarf", "game": "Banjo-Kazooie"},
-                {"name":"Linkarf", "game": "Banjo-Tooie"},
-                {"name":"zacharylawrence", "game": "Donkey Kong 64"},
-                {"name":"SuperSphere", "game": "Crash Bandicoot"},
-                {"name":"SuperSphere", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"SuperSphere", "game": "Crash Bandicoot: WARPED"},
-                {"name":"Uroogla", "game": "Spyro the Dragon"},
-                {"name":"Mentro", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Uroogla", "game": "Spyro: Year of the Dragon"}
+                {"name":"Alana", "game": "Super Mario 64",
+                "submission_pb":"1:59:42",
+                "final_pb":"1:58:10",
+                "lp":30143
+                },
+
+                {"name":"Dan6049", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:42:55"
+            
+
+                },
+
+                {"name":"Timkario", "game": "Super Mario Galaxy",
+                 "submission_pb":"6:50:13"
+                
+                },
+
+                {"name":"galaxv", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"9:30:37"
+            
+            
+                },
+
+                {"name":"Linkarf", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:14:46",
+                 "final_pb":"2:10:07",
+                 "lp":103028
+                },
+
+                {"name":"Linkarf", "game": "Banjo-Tooie",
+                 "submission_pb":"4:38:15"
+                
+                
+                },
+
+                {"name":"zacharylawrence", "game": "Donkey Kong 64",
+                 "submission_pb":"5:42:24",
+                 "final_pb":"5:32:10",
+                 "lp":91128
+                },
+
+                {"name":"SuperSphere", "game": "Crash Bandicoot",
+                 "submission_pb":"1:13:59"
+                
+                
+                },
+
+                {"name":"SuperSphere", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:15:22"
+                
+                
+                },
+
+                {"name":"SuperSphere", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:17:00"
+                
+                
+                },
+
+                {"name":"Uroogla", "game": "Spyro the Dragon",
+                 "submission_pb":"1:42:07",
+                 "final_pb":"1:41:51",
+                 "lp":13807},
+
+                {"name":"Mentro", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:46:45",
+                 "final_pb":"1:38:11",
+                 "lp":262123},
+
+                {"name":"Uroogla", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"3:42:42",
+                 "final_pb":"3:36:39",
+                 "lp":46550
+                }
             ]
         }
     },
 
-        {
+    {
         "team_name":"Mintally Insane",
         "team_color":"mint",
         "team_number": 5,
@@ -107,24 +359,88 @@
         "schedule": {
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
-                {"name":"Nostalgia64", "game": "Super Mario 64"},
-                {"name":"Odme_", "game": "Super Mario Sunshine"},
-                {"name":"Nostalgia64", "game": "Super Mario Galaxy"},
-                {"name":"Odme_", "game": "Super Mario Galaxy 2"},
-                {"name":"CandyBoots", "game": "Banjo-Kazooie"},
-                {"name":"QueenSnopea", "game": "Banjo-Tooie"},
-                {"name":"CandyBoots", "game": "Donkey Kong 64"},
-                {"name":"Katsu", "game": "Crash Bandicoot"},
-                {"name":"Joey", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"anti", "game": "Crash Bandicoot: WARPED"},
-                {"name":"Syl", "game": "Spyro the Dragon"},
-                {"name":"Katsu", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Katsu", "game": "Spyro: Year of the Dragon"}
+                {"name":"Nostalgia64", "game": "Super Mario 64",
+                 "submission_pb":"2:41:51"
+        
+        
+                },
+
+                {"name":"Odme_", "game": "Super Mario Sunshine",
+                 "submission_pb":"2:59:37"
+                
+                
+                },
+
+                {"name":"Nostalgia64", "game": "Super Mario Galaxy",
+                 "submission_pb":"6:38:31"
+            
+            
+                },
+
+                {"name":"Odme_", "game": "Super Mario Galaxy 2",
+                "submission_pb":"8:57:41"
+            
+            
+                },
+
+                {"name":"CandyBoots", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:24:51",
+                 "final_pb":"2:24:50",
+                 "lp":10181
+                },
+
+                {"name":"QueenSnopea", "game": "Banjo-Tooie",
+                 "submission_pb":"4:44:48",
+                 "final_pb":"4:44:37",
+                 "lp":11498
+                },
+
+                {"name":"CandyBoots", "game": "Donkey Kong 64",
+                 "submission_pb":"5:56:44"
+                
+                
+                },
+
+                {"name":"Katsu", "game": "Crash Bandicoot",
+                 "submission_pb":"1:07:31"
+                
+                
+                },
+
+                {"name":"Joey", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:30:16"
+                
+                
+                },
+
+                {"name":"anti", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:05:02",
+                 "final_pb":"2:03:01",
+                 "lp":62759
+                },
+
+                {"name":"Syl", "game": "Spyro the Dragon",
+                 "submission_pb":"2:05:39"
+                
+                
+                },
+
+                {"name":"Katsu", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:52:19",
+                 "final_pb":"1:39:35",
+                 "lp":349849
+                },
+
+                {"name":"Katsu", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"3:27:02"
+                
+                
+                }
             ]
         }
     },
 
-        {
+    {
         "team_name":"Hot.",
         "team_color":"pink",
         "team_number": 6,
@@ -132,24 +448,87 @@
         "schedule": {
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
-                {"name":"Zans64", "game": "Super Mario 64"},
-                {"name":"tackleshift8", "game": "Super Mario Sunshine"},
-                {"name":"TheMine2001", "game": "Super Mario Galaxy"},
-                {"name":"tackleshift8", "game": "Super Mario Galaxy 2"},
-                {"name":"GoodGrieth", "game": "Banjo-Kazooie"},
-                {"name":"SecretHumorMan", "game": "Banjo-Tooie"},
-                {"name":"SecretHumorMan", "game": "Donkey Kong 64"},
-                {"name":"voridak", "game": "Crash Bandicoot"},
-                {"name":"notvanni", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"voridak", "game": "Crash Bandicoot: WARPED"},
-                {"name":"Jordy", "game": "Spyro the Dragon"},
-                {"name":"Grapevine", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Klaxxy73", "game": "Spyro: Year of the Dragon"}
+                {"name":"Zans64", "game": "Super Mario 64",
+                 "submission_pb":"2:03:20"
+                
+                
+                },
+
+                {"name":"tackleshift8", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:31:09"
+                
+                
+                },
+
+                {"name":"TheMine2001", "game": "Super Mario Galaxy",
+                 "submission_pb":"6:06:40"
+                
+                
+                },
+
+                {"name":"tackleshift8", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"9:24:50"
+                
+                
+                },
+
+                {"name":"GoodGrieth", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:19:29"
+                
+                
+                },
+
+                {"name":"SecretHumorMan", "game": "Banjo-Tooie",
+                 "submission_pb":"4:33:43"
+                
+                
+                },
+
+                {"name":"SecretHumorMan", "game": "Donkey Kong 64",
+                 "submission_pb":"6:32:23"
+                
+                
+                },
+
+                {"name":"voridak", "game": "Crash Bandicoot",
+                 "submission_pb":"1:21:39"
+                
+                
+                },
+
+                {"name":"notvanni", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:14:18"
+                
+                
+                },
+
+                {"name":"voridak", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:52:04"
+                
+                
+                },
+
+                {"name":"Jordy", "game": "Spyro the Dragon",
+                 "submission_pb":"1:20:22",
+                 "final_pb":"1:20:00",
+                 "lp":44495
+                },
+
+                {"name":"Grapevine", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:40:45"},
+
+
+
+                {"name":"Klaxxy73", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"3:32:47"
+                
+                
+                }
             ]
         }
     },
 
-        {
+    {
         "team_name":"The Green Tea m",
         "team_color":"cyan",
         "team_number": 7,
@@ -157,19 +536,83 @@
         "schedule": {
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
-                {"name":"Druz", "game": "Super Mario 64"},
-                {"name":"ClairDSS", "game": "Super Mario Sunshine"},
-                {"name":"Mikey (PGSK)", "game": "Super Mario Galaxy"},
-                {"name":"marco", "game": "Super Mario Galaxy 2"},
-                {"name":"XandoToaster", "game": "Banjo-Kazooie"},
-                {"name":"icup", "game": "Banjo-Tooie"},
-                {"name":"icup", "game": "Donkey Kong 64"},
-                {"name":"Nerf", "game": "Crash Bandicoot"},
-                {"name":"NightShadow295", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"EvolvesZ", "game": "Crash Bandicoot: WARPED"},
-                {"name":"debianchan", "game": "Spyro the Dragon"},
-                {"name":"XandoToaster", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Mikey (PGSK)", "game": "Spyro: Year of the Dragon"}
+                {"name":"Druz", "game": "Super Mario 64",
+                 "submission_pb":"1:46:57",
+                 "final_pb":"1:46:17",
+                 "lp":22097
+                },
+
+                {"name":"ClairDSS", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:12:31",
+                 "final_pb":"3:09:52",
+                 "lp":40701
+                },
+
+                {"name":"Mikey (PGSK)", "game": "Super Mario Galaxy",
+                 "submission_pb":"6:08:52"
+            
+            
+                },
+
+                {"name":"marco", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"9:27:07"
+                
+                
+                },
+
+                {"name":"XandoToaster", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:40:17"
+                
+                
+                },
+
+                {"name":"icup", "game": "Banjo-Tooie",
+                 "submission_pb":"4:11:03"
+                
+                
+                },
+
+                {"name":"icup", "game": "Donkey Kong 64",
+                 "submission_pb":"5:54:15"
+
+
+                },
+
+                {"name":"Nerf", "game": "Crash Bandicoot",
+                 "submission_pb":"1:47:53"
+                
+                
+                },
+
+                {"name":"NightShadow295", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:39:14"
+                
+                
+                },
+
+                {"name":"EvolvesZ", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:29:48"
+                
+                
+                },
+
+                {"name":"debianchan", "game": "Spyro the Dragon",
+                 "submission_pb":"1:38:16"
+                
+                
+                },
+
+                {"name":"XandoToaster", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:58:08"
+                
+                
+                },
+
+                {"name":"Mikey (PGSK)", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"3:43:21",
+                 "final_pb":"3:43:07",
+                 "lp":11315
+                }
             ]
         }
     },
@@ -183,18 +626,77 @@
             "run_order":[8, 5, 11, 6, 4, 9, 12, 2, 13, 7, 3, 10, 1],
             "runs": [
                 {"name":"Cheesy", "game": "Super Mario 64"},
-                {"name":"jukatox", "game": "Super Mario Sunshine"},
-                {"name":"Tibs", "game": "Super Mario Galaxy"},
-                {"name":"Cheesy", "game": "Super Mario Galaxy 2"},
-                {"name":"kezisthename", "game": "Banjo-Kazooie"},
-                {"name":"CornCobx0", "game": "Banjo-Tooie"},
-                {"name":"MrTKettle", "game": "Donkey Kong 64"},
-                {"name":"Pianoman7117", "game": "Crash Bandicoot"},
-                {"name":"Aether", "game": "Crash Bandicoot 2: Cortex Strikes Back"},
-                {"name":"Pianoman7117", "game": "Crash Bandicoot: WARPED"},
-                {"name":"Dayoman", "game": "Spyro the Dragon"},
-                {"name":"Aidan", "game": "Spyro 2: Ripto's Rage!"},
-                {"name":"Rui", "game": "Spyro: Year of the Dragon"}
+                {"name":"jukatox", "game": "Super Mario Sunshine",
+                 "submission_pb":"3:12:01",
+                 "final_pb":"3:10:10",
+                 "lp":31480
+                },
+
+                {"name":"Tibs", "game": "Super Mario Galaxy",
+                 "submission_pb":"5:10:14"
+        
+        
+                },
+
+                {"name":"Cheesy", "game": "Super Mario Galaxy 2",
+                 "submission_pb":"9:54:49"
+                
+                
+                },
+
+                {"name":"kezisthename", "game": "Banjo-Kazooie",
+                 "submission_pb":"2:54:14"
+                
+                
+                },
+
+                {"name":"CornCobx0", "game": "Banjo-Tooie",
+                 "submission_pb":"5:30:35",
+                 "final_pb":"5:15:32",
+                 "lp":85636
+                },
+
+                {"name":"MrTKettle", "game": "Donkey Kong 64",
+                 "submission_pb":"5:44:50"
+                
+                
+                },
+
+                {"name":"Pianoman7117", "game": "Crash Bandicoot",
+                 "submission_pb":"1:21:55"
+                
+                
+                },
+
+                {"name":"Aether", "game": "Crash Bandicoot 2: Cortex Strikes Back",
+                 "submission_pb":"1:16:37"
+        
+        
+                },
+
+                {"name":"Pianoman7117", "game": "Crash Bandicoot: WARPED",
+                 "submission_pb":"2:29:05",
+                 "final_pb":"2:27:00",
+                 "lp":31175
+                },
+
+                {"name":"Dayoman", "game": "Spyro the Dragon",
+                 "submission_pb":"1:19:57"
+                
+                
+                },
+
+                {"name":"Aidan", "game": "Spyro 2: Ripto's Rage!",
+                 "submission_pb":"1:58:48",
+                 "final_pb":"1:50:01",
+                 "lp":183933
+                },
+
+                {"name":"Rui", "game": "Spyro: Year of the Dragon",
+                 "submission_pb":"3:44:35"
+                
+                
+                }
             ]
         }
     }

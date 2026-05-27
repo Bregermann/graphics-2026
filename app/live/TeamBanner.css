@@ -18,35 +18,42 @@ img {
 /* #sms {
     transform: translate(0px, 0px);
 }
+*/
 
 #smg1 {
-    transform: translate(0px, 0px);
+    scale: 120%;
 }
 
 #smg2 {
-    transform: translate(0px, 10px);
-} */
+    transform: translate(0px, 20%);
+}
 
 #bk {
     transform: translate(0px, 20px);
+    scale: 120%;
 }
 
 #c1 {
     transform: translate(0px, 10%);
+    scale: 140%;
 }
 
 /* #dk64 {
     transform: translate(0px, -15px);
-}
+} */
 
 #c2 {
-    transform: translate(0px, -30px);
+    transform: translate(0px, -5%);
+    scale: 110%;
 }
 
 #c3 {
-    transform: translate(0px, -10px);
+    transform: translate(0px, -5%);
+    scale: 110%;
 }
 
+
+/*
 #s1 {
     transform: translate(0px, -20px);
 }
@@ -57,13 +64,13 @@ img {
 */
 
 #s3 {
-    transform: translate(0px, -20px);
+    transform: translate(0px, -5%);
 }
 
 .side-banner {
     border: 8px solid transparent;
     width: 20vw;
-    height: 3.65vw;
+    height: 3.7vw;
 }
 
 .rust-banner {

@@ -4,17 +4,22 @@ import {Container, Row, Col} from "react-bootstrap"
 import Image from "next/image"
 import "./MainTeamBanner.css"
 
-const MainTeamBanner = ({main, currRun}) => {
+const MainTeamBanner = ({main, currRun, runsCompleted, info}) => {
 
         const name = main.schedule.runs[currRun].name;
-        console.log(main.schedule)
+        const run_order = main.schedule.run_order.slice(0, runsCompleted);
+
         let pronouns = RunnerInfo.find((runner) => runner.name == name).pronouns;
         if (pronouns === "") {
             pronouns = "None"
         }
-        const pb = "2:17:00"
-        let width = 0
+        const pb = main.schedule.runs[currRun].submission_pb;
+        const final_pb = (main.schedule.runs[currRun].final_pb);
+        const lp = (main.schedule.runs[currRun].lp);
+        console.log(main.schedule.runs[currRun])
+        const run_info = (final_pb ? ["Submission PB: " + pb,"Final PB: " + final_pb,"League Points: " + lp][info % 3] : "PB: " + pb)
 
+        let width = 0
         const gamesCompleted = Games.map((game) => {
                 let src = "/logos/" + game[1] + ".png";
                 if (game[0].includes('Mario')) {
@@ -25,7 +30,7 @@ const MainTeamBanner = ({main, currRun}) => {
                 return <Col className={` ${main.team_color}`}
                             key={`team-${main.team_number}-${game[1]}`}>
                                 <Image src={src} alt='Game logo' width={width} height={width}
-                                       className={currRun > Games.indexOf(game) ? "complete" :
+                                       className={run_order.includes(Games.indexOf(game)) ? "complete" :
                                                   currRun == Games.indexOf(game) ? "in-progress" : "incomplete"}/>
                        </Col>
             }
@@ -39,7 +44,7 @@ const MainTeamBanner = ({main, currRun}) => {
                         <Col>
                             <p className="team-name">{main.team_name}</p>
                             <p className="runner-name">{name}</p>
-                            <p className="runner-info">PB: {pb}</p>
+                            <p className="runner-info">{run_info}</p>
                         </Col>
                     </Row>
                     <Row className="flex flex-wrap items-center justify-center p-8 gap-4">

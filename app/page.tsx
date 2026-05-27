@@ -1,17 +1,23 @@
+'use client'
 import Teams from "./live/data/placeholderrelaydata.json";
 import Image from "next/image";
 import Link from "next/link";
 import Games from "./live/data/games.json";
+import { useEffect, useState } from "react";
 
 export default function Home() {
 
+  const [currRuns, setCurrRuns] = useState([1, 1, 1, 1, 1, 1, 1, 1])
   const main_stream_links = Teams.map((team) => {
       return (           
         <Link
             className={`rounded-full border border-solid transition-colors flex items-center justify-center bg-black text-background gap-4 hover:bg-[#ff0000] text-[64px] h-20 sm:h-40 px-5 sm:px-20 sm:w-auto front-page`}
             href={{
               pathname:'/live',
-              query: {main: team.number}
+              query: {
+                        main: team.number,
+                        currRuns: currRuns
+                     }
             }}
             target="_blank"
             rel="noopener noreferrer"
