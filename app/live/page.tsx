@@ -44,7 +44,7 @@ export default function Live() {
             newQuery = newQuery.replaceAll(',','')
             router.replace(newQuery)
             console.log("Time: " + time)
-        }, 1000 * 60 * rate/60);
+        }, 1000 * 60 * rate);
 
         return () => {
             clearInterval(interval);
