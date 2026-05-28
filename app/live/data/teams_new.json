@@ -357,7 +357,7 @@
         "team_number": 5,
         "finished":0,
         "schedule": {
-            "run_order":[1, 3, 5, 7, 4, 9, 12, 2, 0, 8, 11, 10, 6],
+            "run_order":[7, 6, 12, 2, 3, 5, 8, 10, 4, 0, 11, 1, 9],
             "runs": [
                 {"name":"Nostalgia64", "game": "Super Mario 64",
                  "submission_pb":"2:41:51"
@@ -413,7 +413,7 @@
                 
                 },
 
-                {"name":"anti", "game": "Crash Bandicoot: WARPED",
+                {"name":"Anti", "game": "Crash Bandicoot: WARPED",
                  "submission_pb":"2:05:02",
                  "final_pb":"2:03:01",
                  "lp":62759

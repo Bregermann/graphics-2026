@@ -62,7 +62,9 @@ export default function Live() {
     }, [time])
 
     function handleSwitchRuns(team : any, index : number) {
-        console.log("Current Run:" + team.schedule.run_order[index + 1])
+        console.log("Team: " + team.team_name)
+        console.log("Current Run: " + Games[team.schedule.run_order[index]][0])
+        console.log("Runner:" +  team.schedule.runs[index].name)
         setCurrRuns(currRuns.with(team.team_number - 1, index + 1))
     }
 
@@ -93,7 +95,7 @@ export default function Live() {
     <Suspense fallback={<div className="flex flex-col gap-[32px] row-start-2 items-center"><Image className="m-4" src="/logos/1545.png" alt="1545 logo" width={1000} height={1000} priority/></div>}>
         <Container className="page-feed" fluid>
             <Row className="flex m-4">
-                <Col className="m-4 border-8" style={{borderColor:"transparent"}}>
+                <Col className="m-4 border-8" style={{borderColor:"transparent"}} key={'team-banners'}>
                     {banners}
                 </Col>
                 <Col className={`m-4 main-stream border-8 ${main_team?.team_color} flex`} key={`${main_team?.team_color}-video-main`}>

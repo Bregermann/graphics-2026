@@ -104,6 +104,14 @@ Link .front-page {
   transform: translate(0%, -20%);
 }
 
+.team-control #smg2 {
+  transform: translate(0%, 0%);
+}
+
+.team-control #c1 {
+  transform: scale(115%);
+}
+
 .team-control *.not-running {
   filter:grayscale(100%);
 }
