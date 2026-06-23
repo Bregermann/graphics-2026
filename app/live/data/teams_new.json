@@ -11,7 +11,7 @@
                 {"name":"aldeezy1", "game": "Super Mario 64",
                  "submission_pb":"2:32:53",
                  "final_pb":"2:28:05",
-                 "lp":33915
+                 "lp":33772
                 },
 
                 {"name":"Calum", "game": "Super Mario Sunshine",
@@ -83,8 +83,8 @@
 
                 {"name":"Dactyly", "game": "Spyro: Year of the Dragon",
                  "submission_pb":"2:59:37",
-                 "final_pb":"2:57:59",
-                 "lp":64040
+                 "final_pb":"2:57:58",
+                 "lp":64290
                 }
             ]
         }
@@ -106,8 +106,8 @@
 
                 {"name":"BlauerKeks", "game": "Super Mario Sunshine",
                  "submission_pb":"3:45:29",
-                 "final_pb":"3:37:41",
-                 "lp":67541
+                 "final_pb":"3:31:48",
+                 "lp":138606
                 },
 
                 {"name":"SheilaSlays", "game": "Super Mario Galaxy",
@@ -149,7 +149,7 @@
                 {"name":"Nuke_", "game": "Crash Bandicoot 2: Cortex Strikes Back",
                  "submission_pb":"1:46:22",
                  "final_pb":"1:38:36",
-                 "lp":72627
+                 "lp":71925
                 },
 
                 {"name":"Nuke_", "game": "Crash Bandicoot: WARPED",
@@ -195,8 +195,8 @@
 
                 {"name":"Ceddy", "game": "Super Mario Sunshine",
                  "submission_pb":"3:10:47",
-                 "final_pb":"3:07:59",
-                 "lp":53822
+                 "final_pb":"3:06:30",
+                 "lp":92655
                 },
 
                 {"name":"PinShark", "game": "Super Mario Galaxy",
@@ -213,8 +213,8 @@
 
                 {"name":"ZingoChris", "game": "Banjo-Kazooie",
                  "submission_pb":"2:36:27",
-                 "final_pb":"2:23:27",
-                 "lp":193136
+                 "final_pb":"2:23:24",
+                 "lp":213701
                 },
 
                 {"name":"Znernicus", "game": "Banjo-Tooie",
@@ -237,8 +237,8 @@
 
                 {"name":"C0dek", "game": "Crash Bandicoot 2: Cortex Strikes Back",
                  "submission_pb":"1:16:32",
-                 "final_pb":"1:14:12",
-                 "lp":96915
+                 "final_pb":"1:14:11",
+                 "lp":105273
                 },
 
                 {"name":"Bregermann", "game": "Crash Bandicoot: WARPED",
@@ -261,8 +261,8 @@
 
                 {"name":"Bregermann", "game": "Spyro: Year of the Dragon",
                  "submission_pb":"4:21:09", 
-                 "final_pb":"4:01:54", 
-                 "lp":125524
+                 "final_pb":"3:55:47", 
+                 "lp":151352
                 }
             ]
         }
@@ -278,8 +278,8 @@
             "runs": [
                 {"name":"Alana", "game": "Super Mario 64",
                 "submission_pb":"1:59:42",
-                "final_pb":"1:58:10",
-                "lp":30143
+                "final_pb":"1:57:39",
+                "lp":47013
                 },
 
                 {"name":"Dan6049", "game": "Super Mario Sunshine",
@@ -307,8 +307,8 @@
 
                 {"name":"Linkarf", "game": "Banjo-Tooie",
                  "submission_pb":"4:38:15",
-                 "final_pb":"4:31:53",
-                 "lp":82025
+                 "final_pb":"4:26:42",
+                 "lp":168318
                 },
 
                 {"name":"zacharylawrence", "game": "Donkey Kong 64",
@@ -338,13 +338,13 @@
                 {"name":"Uroogla", "game": "Spyro the Dragon",
                  "submission_pb":"1:42:07",
                  "final_pb":"1:41:16",
-                 "lp":42284
+                 "lp":39769
                 },
 
                 {"name":"Mentro", "game": "Spyro 2: Ripto's Rage!",
                  "submission_pb":"1:46:45",
-                 "final_pb":"1:37:57",
-                 "lp":178377
+                 "final_pb":"1:35:23",
+                 "lp":371525
                 },
 
                 {"name":"Uroogla", "game": "Spyro: Year of the Dragon",
@@ -367,7 +367,7 @@
                 {"name":"Nostalgia64", "game": "Super Mario 64",
                  "submission_pb":"2:41:51",
                  "final_pb":"2:33:38",
-                 "lp":43843
+                 "lp":43585
                 },
 
                 {"name":"Odme_", "game": "Super Mario Sunshine",
@@ -414,8 +414,8 @@
 
                 {"name":"Joey", "game": "Crash Bandicoot 2: Cortex Strikes Back",
                  "submission_pb":"1:30:16",
-                 "final_pb":"1:25:37",
-                 "lp":100368
+                 "final_pb":"1:20:53",
+                 "lp":199013
                 },
 
                 {"name":"Anti", "game": "Crash Bandicoot: WARPED",
@@ -465,8 +465,8 @@
                 
                 },
 
-                {"name":"TheMine2001", "game": "Super Mario Galaxy",
-                 "submission_pb":"6:06:40"
+                {"name":"Toogs", "game": "Super Mario Galaxy",
+                 "submission_pb":"5:43:51"
                 
                 
                 },
@@ -479,8 +479,8 @@
 
                 {"name":"GoodGrieth", "game": "Banjo-Kazooie",
                  "submission_pb":"2:19:29",
-                 "final_pb":"2:16:40",
-                 "lp":27230
+                 "final_pb":"2:15:50",
+                 "lp":88861
                 },
 
                 {"name":"SecretHumorMan", "game": "Banjo-Tooie",
@@ -490,9 +490,9 @@
                 },
 
                 {"name":"SecretHumorMan", "game": "Donkey Kong 64",
-                 "submission_pb":"6:32:23"
-                
-                
+                 "submission_pb":"6:32:23",
+                 "final_pb":"6:31:15",
+                 "lp":14600                
                 },
 
                 {"name":"voridak", "game": "Crash Bandicoot",
@@ -503,20 +503,21 @@
 
                 {"name":"notvanni", "game": "Crash Bandicoot 2: Cortex Strikes Back",
                  "submission_pb":"1:14:18",
-                 "final_pb":"1:13:58",
-                 "lp":30231
+                 "final_pb":"1:12:56",
+                 "lp":81407
                 },
 
                 {"name":"voridak", "game": "Crash Bandicoot: WARPED",
-                 "submission_pb":"2:52:04"
-                
+                 "submission_pb":"2:52:04",
+                 "final_pb":"2:50:18",
+                 "lp":12268
                 
                 },
 
                 {"name":"Jordy", "game": "Spyro the Dragon",
                  "submission_pb":"1:20:22",
-                 "final_pb":"1:20:00",
-                 "lp":44495
+                 "final_pb":"1:19:49",
+                 "lp":96494
                 },
 
                 {"name":"Grapevine", "game": "Spyro 2: Ripto's Rage!",
@@ -525,8 +526,9 @@
 
 
                 {"name":"Klaxxy73", "game": "Spyro: Year of the Dragon",
-                 "submission_pb":"3:32:47"
-                
+                 "submission_pb":"3:32:47",
+                 "final_pb":"3:30:50",
+                 "lp":23771
                 
                 }
             ]
@@ -591,13 +593,14 @@
 
                 {"name":"NightShadow295", "game": "Crash Bandicoot 2: Cortex Strikes Back",
                  "submission_pb":"1:39:14",
-                 "final_pb":"1:36:14",
-                 "lp":49295
+                 "final_pb":"1:35:48",
+                 "lp":66076
                 },
 
                 {"name":"EvolvesZ", "game": "Crash Bandicoot: WARPED",
-                 "submission_pb":"2:29:48"
-                
+                 "submission_pb":"2:29:48",
+                 "final_pb":"2:29:26",
+                 "lp":13566
                 
                 },
 
@@ -615,8 +618,8 @@
 
                 {"name":"Mikey (PGSK)", "game": "Spyro: Year of the Dragon",
                  "submission_pb":"3:43:21",
-                 "final_pb":"3:30:46",
-                 "lp":140236
+                 "final_pb":"3:29:37",
+                 "lp":158630
                 }
             ]
         }
@@ -656,14 +659,14 @@
 
                 {"name":"kezisthename", "game": "Banjo-Kazooie",
                  "submission_pb":"2:54:14",
-                 "final_pb":"2:48:42",
-                 "lp":40065
+                 "final_pb":"2:45:56",
+                 "lp":66673
                 },
 
                 {"name":"CornCobx0", "game": "Banjo-Tooie",
                  "submission_pb":"5:30:35",
-                 "final_pb":"5:08:03",
-                 "lp":134440
+                 "final_pb":"5:01:50",
+                 "lp":190429
                 },
 
                 {"name":"MrTKettle", "game": "Donkey Kong 64",
@@ -686,8 +689,8 @@
 
                 {"name":"Pianoman7117", "game": "Crash Bandicoot: WARPED",
                  "submission_pb":"2:29:05",
-                 "final_pb":"2:27:00",
-                 "lp":31175
+                 "final_pb":"2:24:45",
+                 "lp":65485
                 },
 
                 {"name":"Dayoman", "game": "Spyro the Dragon",
@@ -704,7 +707,7 @@
 
                 {"name":"Rui", "game": "Spyro: Year of the Dragon",
                  "submission_pb":"3:44:35",
-                 "final_pb":"3:34:17",
+                 "final_pb":"3:43:17",
                  "lp":17228
                 }
             ]
